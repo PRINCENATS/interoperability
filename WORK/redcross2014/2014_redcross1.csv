@@ -1,0 +1,12 @@
+Type of Disaster,Day reported,Month reported,Time reported (24 hrs),Date reported,Day of first response,Month of first response,Time of first response,Date of first response ,Reponse time within xx hours,Region,Branch,Location,HH affected, Popn affected , Deaths , Affected 60+ people (autofill) ,URCS response, H/H targeted , Popn targeted ,Remarks
+Fire,13,January,14:45 hrs,13/January,17,January,08:10 hrs,17/January,72,Gulu,Moroto,Napak, 122 , 732 ,, Y ,C, 108 , 627 ,URCS response including NFIs
+Refugee influx,6,January,10:30 hrs,6/January,14,January,10:34 hrs,14/January,216,Gulu,Adjumani,Dzaipi,," 36,849 ",, Y ,C,," 10,265 ",URCS is carrying on WASH activities
+Refugee influx,6,January,15:43 hrs,6/January,14,January,18:12 hrs,14/January,216,Hoima,Arua,Koboko,," 7,209 ",, Y ,C,," 11,969 ",URCS is carrying on WASH activities
+Refugee influx,,,,/,,,,/,,`,,,," 92,135 ",,,,,,"Note: total number of refugees as of 31 Dec (UNHCR figures) was 136,193 - thus this number is added so total number of people affected is shown, not just initial influxes.  "
+Fire,23,January,15:20 hrs,23/January,24,January,10:15 hrs,24/January,24,Central,Iganga,Bukana, 108 , 756 ,, Y ,B,,,Assesment and shared info with others
+Storm,20,January,11:44 hrs,20/January,21,January,15:46hrs,21/January,48,Central,Luwero,Kamira, 51 , 255 ,, Y ,B,,,Assesment and shared info with others
+Floods,2,February,9:10 hrs,2/February,3,February,16:20 hrs,3/February,48,Mbarara,Kasese,Maliba, 25 , 123 ,, Y ,B,,,Assesment and shared info with others
+Fire,18,February,14:13,18/February,21,February,10:13 hrs,21/February,48,Central,Kampala west,Kisenyi, 30 , 130 ,, Y ,C, 30 , 130 ,"URCS response, including NFI's"
+Storm,23,February,19:20 hrs,23/February,24,February,10:20 hrs,24/February,24,Central,Luwero,Town , 289 ," 1,734 ",, Y ,C, 100 , 543 ,"URCS response, including NFI's"
+Storm,24,February,13:20,24/February,25,February,10:14,25/February,24,Central,Iganga,Nakalama, 137 , 959 ,, Y ,B,,,Assesment and shared info with others
+Fire,8,March,9:02 hrs,8/March,9,March,10:40 hrs,9/March,24,Mbale,Moroto,Napak, 154 , 882 ,, Y ,C, 152 , 912 ,URCS distributed NFIs

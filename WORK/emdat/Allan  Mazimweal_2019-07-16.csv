@@ -1,0 +1,86 @@
+Start date,End date,Country,ISO,Location,Latitude,Longitude,Magnitude value,Magnitude scale,Disaster type,Disaster subtype,Associated disaster,Associated disaster2,Total damage ('000 US$),Disaster name,Disaster No.
+01/01/1901,01/01/1901,Uganda,UGA,Nationwide,,,,Vaccinated,Epidemic,--,--,--,0,,1901-0001
+01/01/1935,01/01/1935,Uganda,UGA,,,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Bubonic,1935-0001
+02/01/1967,02/01/1967,Uganda,UGA,Karamoja,,,,Km2,Drought,Drought,--,--,200,,1967-9001
+12/02/1979,12/02/1979,Uganda,UGA,Karamoja,,,,Km2,Drought,Drought,--,--,0,,1979-9128
+16/03/1982,16/03/1982,Uganda,UGA,,,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Plague,1982-0408
+04/05/1986,04/05/1986,Uganda,UGA,,,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Plague,1986-0403
+14/12/1987,14/12/1987,Uganda,UGA,"Karamoja, Northwestern",,,,Km2,Drought,Drought,--,--,0,,1987-9031
+04/12/1989,04/12/1989,Uganda,UGA,"Kampala, Mbale,  Arua",,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Meningococcal disease,1989-0244
+01/01/1990,01/01/1990,Uganda,UGA,Countrywide,,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Meningococcal disease,1990-0618
+03/03/1991,03/03/1991,Uganda,UGA,,,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,,1991-0083
+13/01/1992,13/01/1992,Uganda,UGA,,,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,,1992-0424
+28/08/1996,28/08/1996,Uganda,UGA,,,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,,1996-0218
+26/11/1997,26/11/1997,Uganda,UGA,Mbarara & Kabalore Districts,,,,Vaccinated,Epidemic,Viral disease,--,--,0,O'NyongNyong fever,1997-0506
+30/12/1997,21/09/1998,Uganda,UGA,"Arua and Moyo districts (Northern region), Kamuli and Busia districts (eastern region), Bushenyi, Hoima, Kasese, Kibaale and Masinidi districts (western region)",,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,1997-0518
+07/01/1998,07/01/1998,Uganda,UGA,"Wajir, Garissa districts",,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,1998-0129
+12/01/1998,12/01/1998,Uganda,UGA,,,,,Km2,Drought,Drought,--,--,1600,,1998-9265
+18/06/1999,18/06/1999,Uganda,UGA,Bundibugyo District,,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,1999-0517
+/01/1999,/01/1999,Uganda,UGA,Arua District,,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,1999-0630
+12/11/1999,12/11/1999,Uganda,UGA,Bundibugyo District,,,,Vaccinated,Epidemic,--,--,--,0,,1999-0650
+21/08/1999,21/08/1999,Uganda,UGA,"Abim, Amudat, Kaabong, Kotido, Moroto, Nakapiripirit, Napak provinces",,,,Km2,Drought,Drought,Famine,--,0,,1999-9388
+27/02/2000,27/02/2000,Uganda,UGA,Bundibugyo district,,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,2000-0366
+01/09/2000,01/09/2000,Uganda,UGA,Kabutabwe Bubandi (Bundibugyo district),,,,Vaccinated,Epidemic,--,--,--,0,Acute diarroheal syndrome,2000-0624
+08/08/2000,28/02/2001,Uganda,UGA,"Gulu, Mbarara, Masindi districts",,,,Vaccinated,Epidemic,Viral disease,--,--,0,Ebola haemorrhagic fever,2000-0660
+02/10/2001,02/10/2001,Uganda,UGA,Nebbi district,,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,,2001-0581
+04/06/2002,04/06/2002,Uganda,UGA,"Kaabong, Kotido, Abim, Moroto, Nakapiripirit provinces (Karamoja region)",,,0,Km2,Drought,Drought,Food shortage,--,0,,2002-9852
+03/04/2003,03/04/2003,Uganda,UGA,Bundibugyo district,,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,2003-0270
+01/11/2004,01/11/2004,Uganda,UGA,Pabbo IDP Camp (Gulu district),,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,2004-0570
+03/04/2005,31/05/2005,Uganda,UGA,"Kampala, Jonam county (Nebbi district), Gulu district",,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,2005-0325
+28/12/2005,12/02/2006,Uganda,UGA,"Nakapiripirit, Moroto districts",,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Meningococcal disease,2005-0755
+12/03/2005,03/03/2006,Uganda,UGA,"Rupa, Nadunget subcounties (Moroto province); Nyakwae subcounty (Abim province); Kalapata city (Dodoth district, Kaabong province) (Karamoja region)",,,,Km2,Drought,Drought,--,--,0,,2005-9163
+16/04/2006,31/12/2006,Uganda,UGA,"Northern, Western regions and Kawempe, Makindye, Rubaga, Central, Nakawa, Wasiko (Kampala)",,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,2006-0679
+28/12/2006,08/04/2007,Uganda,UGA,"Arua/marcha-Terego, Yumbe, Moyo, Koboko, Adjumani, Nebby, Karamoja, Kotido, Moroto, Nakapiripit districts",,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Meningoccal disease,2006-0720
+09/01/2006,05/03/2006,Uganda,UGA,Gulu and other districts,,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Meningococcal disease,2006-0724
+21/12/2006,21/03/2007,Uganda,UGA,"Kawempe, Makindye, Rubaga, Central, Nakawa, Wasiko (Kamapal city divisions)",,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,2006-0753
+20/08/2007,15/02/2008,Uganda,UGA,"Kykyo, Kabango, Ntandi, Butolya, Bugharama, Kizufo, Buyaya, Butantagua, Bulhambago, Bundimwali I, Bugharama II, Bulhambaghiri (Bundibugyo District), Kabarole, Kasese, Masindi, Hoima, Kampala, Kibaale",,,,Vaccinated,Epidemic,Viral disease,--,--,0,Ebola Haemorrhagic Fever,2007-0561
+14/11/2007,19/01/2009,Uganda,UGA,"Madi Opei (Lamwo County, Kitgum district), Agoro, Paloga, Padibe, Mucwini, Lokung, Layamo, Orom, Kigtum, Akwnag, Palabek Gem, Pader, Gulu and Yumbe districts (West Nile region), Oboko, Lupulingi, Lugede, Ywaya, Apwoyo",,,,Vaccinated,Epidemic,Viral disease,--,--,0,Hepatitis E Virus,2007-0682
+02/05/2008,27/06/2008,Uganda,UGA,"Mbale, Butaleja, Pallisa, Manafwa, Tororo districts",,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,2008-0274
+12/07/2008,12/10/2009,Uganda,UGA,"Nakapiripit, Kodito, Abim provinces (Karamoja region, North-East)",,,,Km2,Drought,Drought,Food shortage,--,0,,2008-9307
+08/03/2009,29/10/2009,Uganda,UGA,"Karambi, Nyakiyumbu, Kitholhu, Ihandiro, Bwera sub-counties (Bukonzo West constituency)",,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,2009-0255
+14/10/2009,26/10/2009,Uganda,UGA,"Busia, Kampala districts",,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,2009-0545
+16/11/2010,29/12/2010,Uganda,UGA,"Abim, Agago, Kitgum, Gulu, Arua, Lira, Kaabong, Kotido",,,,Vaccinated,Epidemic,Viral disease,--,--,0,Yellow Fever,2010-0670
+17/03/2011,17/03/2011,Uganda,UGA,"Kaabong, Kotido, Abim, Moroto, Nakapiripirit provinces (Karamoja region)",,,,Km2,Drought,Drought,--,--,0,,2010-9082
+01/01/2012,01/09/2012,Uganda,UGA,"Mbale, Sironko, Bududa (Eastern region); Kasase, Buliisa (WEst and South Western region); Nebbi (West-Nile sub-region)",,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,2012-0110
+03/08/2012,24/08/2012,Uganda,UGA,Kibale district,,,,Vaccinated,Epidemic,Viral disease,--,--,0,Ebola,2012-0261
+25/10/2012,02/12/2012,Uganda,UGA,"Luweero, Kampala",,,,Vaccinated,Epidemic,Viral disease,--,--,0,Ebola,2012-0495
+16/01/2013,18/04/2013,Uganda,UGA,"Hoima, Nebbi, Buliisa districts ",,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,2013-0139
+12/01/2013,13/10/2013,Uganda,UGA,"Isingiro, Kamwenge, Kyenjojo, Mubende districts",,,,Vaccinated,Epidemic,Viral disease,--,--,0,Measles,2013-0458
+03/10/2013,03/12/2013,Uganda,UGA,Napak district,,,,Vaccinated,Epidemic,Viral disease,--,--,0,Hepatitis E Virus,2013-0571
+16/09/2017,04/11/2017,Uganda,UGA,"Kween, Kapachorwa, Bukwo districts",,,,Vaccinated,Epidemic,Viral disease,--,--,0,Marburg,2017-0447
+15/02/2018,28/02/2018,Uganda,UGA,Kyangwali refugee camp (Hoima district),,,,Vaccinated,Epidemic,Bacterial disease,--,--,0,Cholera,2018-0076
+03/01/1967,03/01/1967,Uganda,UGA,Karamoja,,,,Km2,Drought,Drought,--,--,200,,1967-9001
+12/07/1979,07/08/1980,Uganda,UGA,Karamoja,,,,Km2,Drought,Drought,--,--,0,,1979-9128
+06/12/1987,12/06/1988,Uganda,UGA,"Karamoja, Northwestern",,,,Km2,Drought,Drought,--,--,0,,1987-9031
+23/11/1997,23/11/1997,Uganda,UGA, Mbale Region,,,,,Landslide,Landslide,--,--,0,,1997-0280
+14/11/1997,28/11/1997,Uganda,UGA,"Bundibugyo, Kabarole, Tororo, Mbale, Pallissa, Bugiri and Nebbi Dist.",,,20,Km2,Flood,Riverine flood,"Slide (land, mud, snow, rock)",--,1000,,1997-0301
+31/07/1998,31/07/1998,Uganda,UGA, Lake Kyoga,,,,Km2,Flood,Riverine flood,--,--,0,,1998-0240
+12/01/1998,04/03/1999,Uganda,UGA,,,,,Km2,Drought,Drought,--,--,1600,,1998-9265
+12/08/1999,08/12/2001,Uganda,UGA,"Abim, Amudat, Kaabong, Kotido, Moroto, Nakapiripirit, Napak provinces",,,,Km2,Drought,Drought,Famine,--,0,,1999-9388
+12/05/2001,12/05/2001,Uganda,UGA,Kasese province,,,,Km2,Flood,--,--,--,0,,2001-0277
+03/11/2001,03/11/2001,Uganda,UGA,"Ntandi trading center (Bwamba district, Bundibugyo province)",,,,,Landslide,Landslide,--,--,0,,2001-0650
+11/12/2001,11/12/2001,Uganda,UGA,Kabale province,,,,Km2,Flood,--,--,--,0,,2001-0682
+30/03/2002,30/03/2002,Uganda,UGA,"Kangulumira village (Ntenjeru district, Kayunga province)",,,,Km2,Flood,--,--,--,0,,2002-0194
+26/04/2002,28/05/2002,Uganda,UGA,"Mbale, Sironko, Bundibugyo, Kapchorwa, Buhweju provinces",,,,Km2,Flood,Riverine flood,--,--,0,,2002-0272
+05/06/2002,05/06/2002,Uganda,UGA,"Kaabong, Kotido, Abim, Moroto, Nakapiripirit provinces (Karamoja region)",,,0,Km2,Drought,Drought,Food shortage,--,0,,2002-9852
+21/04/2003,04/06/2003,Uganda,UGA,"Mbale, Bugiri province",,,,Km2,Flood,Riverine flood,--,--,0,,2003-0204
+01/07/2003,03/07/2003,Uganda,UGA,Mbale province,,,960,Km2,Flood,Riverine flood,"Slide (land, mud, snow, rock)",--,0,,2003-0706
+12/10/2004,12/10/2004,Uganda,UGA,Gulu province,,,,Km2,Flood,--,--,--,0,,2004-0540
+08/11/2004,10/11/2004,Uganda,UGA,"Pakwach town (Jonam district, Nebbi province)",,,300,Km2,Flood,Riverine flood,--,--,0,,2004-0591
+12/03/2005,12/03/2006,Uganda,UGA,"Rupa, Nadunget subcounties (Moroto province); Nyakwae subcounty (Abim province); Kalapata city (Dodoth district, Kaabong province) (Karamoja region)",,,,Km2,Drought,Drought,--,--,0,,2005-9163
+12/08/2006,21/08/2006,Uganda,UGA,"Bumufuni village (Bunambutye area, Budadiri district, Sironko province), Kapkwot village (Ngenge area, Tingey district, Kapchorwa province)",1.38,34.28,4050,Km2,Flood,Riverine flood,--,--,0,,2006-0462
+23/10/2006,19/12/2006,Uganda,UGA,"Kumi, Kayunga, Mukono, Kabale, Kisoro, Butaleja, Kaliro, Kampala provinces",0.78,39.72,,Km2,Flood,Riverine flood,--,--,0,,2006-0624
+15/08/2007,31/10/2007,Uganda,UGA,"Amuria, Bukedea, Kaberamaido, Katakwi, Kumi, Soroti, Amuru, Gulu, Kitgum, Pader, Amolatar, Apac, Dokolo, Lira, Oyam, Abim, Kaabong, Kotido, Moroto, Nakapiripirit, Bududa, Bukwo, Kapchorwa, Mbale, Manafwa, Sironko, Adjumani, Arua, Moyo, Nebbi, Yumbe, Kiboga, Kamuli provinces",0.88,34.28,,Km2,Flood,Riverine flood,"Slide (land, mud, snow, rock)",--,71,,2007-0408
+15/11/2007,18/11/2007,Uganda,UGA,"Kampala city (Central Kampala district, Kampala province)",0.35,32.59,550,Km2,Flood,Riverine flood,--,--,0,,2007-0555
+17/11/2008,17/11/2008,Uganda,UGA,"Adjumani, Moyo, Nakapiripirit, Moroto, Kaabong, Abim, Kiboga, Kayunga, Kasese provinces",,,,Km2,Flood,Riverine flood,--,--,0,,2008-0527
+13/07/2008,13/10/2009,Uganda,UGA,"Nakapiripit, Kodito, Abim provinces (Karamoja region, North-East)",,,,Km2,Drought,Drought,Food shortage,--,0,,2008-9307
+25/02/2010,01/03/2010,Uganda,UGA,"Himumtu, Mazimasa, Kachonga, Butalega Rural, Butaleja Town areas (Bunyole district, Butaleja province), Nametsi, Kubehwo, Namangasa, Namasheti, Bumayoka villages (Manjiya district, Bududa province), Amudat, Amuria, Budaka, Bukwo, Kapchorwa, Katakwi, Kibuku, Manafwa, Mbale, Moroto, Nakapiripirit, Napak, Pallisa, Sironko provinces",,,,,Landslide,Landslide,--,--,0,,2010-0084
+05/03/2011,05/03/2011,Uganda,UGA,"Kaabong, Kotido, Abim, Moroto, Nakapiripirit provinces (Karamoja region)",,,,Km2,Drought,Drought,--,--,0,,2010-9082
+20/08/2011,08/09/2011,Uganda,UGA,"Bulambuli, Sironko, Kween, Mbale, Butaleja, Masaka, Buhweju, Mitooma, Mpigi, Kasese, Rukungiri, Lwengo, Kampala provinces",1.664,33.67,37846,Km2,Flood,Riverine flood,"Slide (land, mud, snow, rock)",--,0,,2011-0376
+24/06/2012,24/06/2012,Uganda,UGA,"Namanga, Bunakasala villages (Bududa district, Manjiya province)",,,,,Landslide,Landslide,--,--,0,,2012-0215
+20/08/2012,07/09/2012,Uganda,UGA,"Agago, Kitgum, Lamwo, Pader provinces",2.65,32.72,57981,Km2,Flood,Riverine flood,--,--,0,,2012-0380
+01/05/2013,05/05/2013,Uganda,UGA,Kasese province,,,,Km2,Flood,Riverine flood,--,--,3100,,2013-0197
+13/04/2016,18/04/2016,Uganda,UGA,"Kyebando, Bwaise, Mulago, Kalerwe suburbs (Kawempe district, Kampala province), Kamwokya suburb (Central Kampala district, Kampala province), Kanamba, Kabaka parishes (Karusandara sub-county, Busongora district, Kasese province)",,,,Km2,Flood,Riverine flood,--,--,2700,,2016-0130
+10/05/2016,10/05/2016,Uganda,UGA,"Bubukwanga, Bukhonzo, Humya, and Bumadu village in Bundibugyo town council (Bundinbugyo district)",,,,,Landslide,Landslide,--,--,0,,2016-0148
+20/09/2017,27/09/2017,Uganda,UGA,"Rubanda district, Nfasha, Rukungiri district",,,,Km2,Flood,Flash flood,--,--,0,,2017-0395
+11/10/2018,11/10/2018,Uganda,UGA,Bududa district,,,,,Landslide,Mudslide,Flood,--,0,,2018-0423

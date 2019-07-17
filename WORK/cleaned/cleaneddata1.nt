@@ -1,0 +1,81 @@
+<https://w3id.org/gicentre/onto/desiventar/0> <https://w3id.org/gicentre/onto/desiventar/Event> "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" .
+<https://w3id.org/gicentre/onto/desiventar/0> <https://w3id.org/gicentre/onto/desiventar/District> "https://w3id.org/gicentre/onto/desiventar/ADJUMANI" .
+<https://w3id.org/gicentre/onto/desiventar/0> <https://w3id.org/gicentre/onto/desiventar/Date> "https://w3id.org/gicentre/onto/desiventar/2014-03-20" .
+<https://w3id.org/gicentre/onto/desiventar/0> <https://w3id.org/gicentre/onto/desiventar/Cause> "https://w3id.org/gicentre/onto/desiventar/Other cause" .
+<https://w3id.org/gicentre/onto/desiventar/0> <https://w3id.org/gicentre/onto/desiventar/Description+of+cause> "https://w3id.org/gicentre/onto/desiventar/Meningitis" .
+<https://w3id.org/gicentre/onto/desiventar/0> <https://w3id.org/gicentre/onto/desiventar/Source> "https://w3id.org/gicentre/onto/desiventar/New Vision" .
+<https://w3id.org/gicentre/onto/desiventar/0> <https://w3id.org/gicentre/onto/desiventar/Injured> "https://w3id.org/gicentre/onto/desiventar/6" .
+<https://w3id.org/gicentre/onto/desiventar/0> <https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/1> <https://w3id.org/gicentre/onto/desiventar/Event> "https://w3id.org/gicentre/onto/desiventar/FLOOD" .
+<https://w3id.org/gicentre/onto/desiventar/1> <https://w3id.org/gicentre/onto/desiventar/District> "https://w3id.org/gicentre/onto/desiventar/AGAGO" .
+<https://w3id.org/gicentre/onto/desiventar/1> <https://w3id.org/gicentre/onto/desiventar/Subcounty> "https://w3id.org/gicentre/onto/desiventar/WOL" .
+<https://w3id.org/gicentre/onto/desiventar/1> <https://w3id.org/gicentre/onto/desiventar/Parish> "https://w3id.org/gicentre/onto/desiventar/OGOLE" .
+<https://w3id.org/gicentre/onto/desiventar/1> <https://w3id.org/gicentre/onto/desiventar/Date> "https://w3id.org/gicentre/onto/desiventar/2013-10-01" .
+<https://w3id.org/gicentre/onto/desiventar/2> <https://w3id.org/gicentre/onto/desiventar/Event> "https://w3id.org/gicentre/onto/desiventar/FLOOD" .
+<https://w3id.org/gicentre/onto/desiventar/2> <https://w3id.org/gicentre/onto/desiventar/District> "https://w3id.org/gicentre/onto/desiventar/AGAGO" .
+<https://w3id.org/gicentre/onto/desiventar/2> <https://w3id.org/gicentre/onto/desiventar/Subcounty> "https://w3id.org/gicentre/onto/desiventar/PAIMOL" .
+<https://w3id.org/gicentre/onto/desiventar/2> <https://w3id.org/gicentre/onto/desiventar/Parish> "https://w3id.org/gicentre/onto/desiventar/PACABOL" .
+<https://w3id.org/gicentre/onto/desiventar/2> <https://w3id.org/gicentre/onto/desiventar/Date> "https://w3id.org/gicentre/onto/desiventar/2013-10-04" .
+<https://w3id.org/gicentre/onto/desiventar/3> <https://w3id.org/gicentre/onto/desiventar/Event> "https://w3id.org/gicentre/onto/desiventar/FLOOD" .
+<https://w3id.org/gicentre/onto/desiventar/3> <https://w3id.org/gicentre/onto/desiventar/District> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/3> <https://w3id.org/gicentre/onto/desiventar/Date> "https://w3id.org/gicentre/onto/desiventar/2013-05-01" .
+<https://w3id.org/gicentre/onto/desiventar/3> <https://w3id.org/gicentre/onto/desiventar/Comments> "https://w3id.org/gicentre/onto/desiventar/Detailed information not provided per sub-counies" .
+<https://w3id.org/gicentre/onto/desiventar/3> <https://w3id.org/gicentre/onto/desiventar/Cause> "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" .
+<https://w3id.org/gicentre/onto/desiventar/3> <https://w3id.org/gicentre/onto/desiventar/Source> "https://w3id.org/gicentre/onto/desiventar/OPM" .
+<https://w3id.org/gicentre/onto/desiventar/3> <https://w3id.org/gicentre/onto/desiventar/Injured> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/3> <https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/4> <https://w3id.org/gicentre/onto/desiventar/Event> "https://w3id.org/gicentre/onto/desiventar/STORM" .
+<https://w3id.org/gicentre/onto/desiventar/4> <https://w3id.org/gicentre/onto/desiventar/District> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/4> <https://w3id.org/gicentre/onto/desiventar/Subcounty> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/4> <https://w3id.org/gicentre/onto/desiventar/Parish> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/4> <https://w3id.org/gicentre/onto/desiventar/Date> "https://w3id.org/gicentre/onto/desiventar/2016-11-14" .
+<https://w3id.org/gicentre/onto/desiventar/4> <https://w3id.org/gicentre/onto/desiventar/Comments> "https://w3id.org/gicentre/onto/desiventar/Material needed for construction" .
+<https://w3id.org/gicentre/onto/desiventar/4> <https://w3id.org/gicentre/onto/desiventar/Cause> "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" .
+<https://w3id.org/gicentre/onto/desiventar/4> <https://w3id.org/gicentre/onto/desiventar/Injured> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/4> <https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/5> <https://w3id.org/gicentre/onto/desiventar/Event> "https://w3id.org/gicentre/onto/desiventar/STORM" .
+<https://w3id.org/gicentre/onto/desiventar/5> <https://w3id.org/gicentre/onto/desiventar/District> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/5> <https://w3id.org/gicentre/onto/desiventar/Subcounty> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/5> <https://w3id.org/gicentre/onto/desiventar/Parish> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/5> <https://w3id.org/gicentre/onto/desiventar/Location> "https://w3id.org/gicentre/onto/desiventar/ward b" .
+<https://w3id.org/gicentre/onto/desiventar/5> <https://w3id.org/gicentre/onto/desiventar/Date> "https://w3id.org/gicentre/onto/desiventar/2016-11-14" .
+<https://w3id.org/gicentre/onto/desiventar/5> <https://w3id.org/gicentre/onto/desiventar/Comments> "https://w3id.org/gicentre/onto/desiventar/food and non food materials needed esp. construstion materials" .
+<https://w3id.org/gicentre/onto/desiventar/5> <https://w3id.org/gicentre/onto/desiventar/Cause> "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" .
+<https://w3id.org/gicentre/onto/desiventar/5> <https://w3id.org/gicentre/onto/desiventar/Injured> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/5> <https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/6> <https://w3id.org/gicentre/onto/desiventar/Event> "https://w3id.org/gicentre/onto/desiventar/STORM" .
+<https://w3id.org/gicentre/onto/desiventar/6> <https://w3id.org/gicentre/onto/desiventar/District> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/6> <https://w3id.org/gicentre/onto/desiventar/Subcounty> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/6> <https://w3id.org/gicentre/onto/desiventar/Parish> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/6> <https://w3id.org/gicentre/onto/desiventar/Location> "https://w3id.org/gicentre/onto/desiventar/Kangaror" .
+<https://w3id.org/gicentre/onto/desiventar/6> <https://w3id.org/gicentre/onto/desiventar/Date> "https://w3id.org/gicentre/onto/desiventar/2016-11-14" .
+<https://w3id.org/gicentre/onto/desiventar/6> <https://w3id.org/gicentre/onto/desiventar/Comments> "https://w3id.org/gicentre/onto/desiventar/construction materials needed." .
+<https://w3id.org/gicentre/onto/desiventar/6> <https://w3id.org/gicentre/onto/desiventar/Cause> "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" .
+<https://w3id.org/gicentre/onto/desiventar/6> <https://w3id.org/gicentre/onto/desiventar/Injured> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/6> <https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/7> <https://w3id.org/gicentre/onto/desiventar/Event> "https://w3id.org/gicentre/onto/desiventar/STORM" .
+<https://w3id.org/gicentre/onto/desiventar/7> <https://w3id.org/gicentre/onto/desiventar/District> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/7> <https://w3id.org/gicentre/onto/desiventar/Subcounty> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/7> <https://w3id.org/gicentre/onto/desiventar/Parish> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/7> <https://w3id.org/gicentre/onto/desiventar/Location> "https://w3id.org/gicentre/onto/desiventar/kamkon" .
+<https://w3id.org/gicentre/onto/desiventar/7> <https://w3id.org/gicentre/onto/desiventar/Date> "https://w3id.org/gicentre/onto/desiventar/2016-11-14" .
+<https://w3id.org/gicentre/onto/desiventar/7> <https://w3id.org/gicentre/onto/desiventar/Comments> "https://w3id.org/gicentre/onto/desiventar/Food and non food items but specifically construction materials." .
+<https://w3id.org/gicentre/onto/desiventar/7> <https://w3id.org/gicentre/onto/desiventar/Cause> "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" .
+<https://w3id.org/gicentre/onto/desiventar/7> <https://w3id.org/gicentre/onto/desiventar/Injured> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/7> <https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/8> <https://w3id.org/gicentre/onto/desiventar/Event> "https://w3id.org/gicentre/onto/desiventar/STORM" .
+<https://w3id.org/gicentre/onto/desiventar/8> <https://w3id.org/gicentre/onto/desiventar/District> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/8> <https://w3id.org/gicentre/onto/desiventar/Subcounty> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/8> <https://w3id.org/gicentre/onto/desiventar/Parish> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/8> <https://w3id.org/gicentre/onto/desiventar/Location> "https://w3id.org/gicentre/onto/desiventar/senior quaters" .
+<https://w3id.org/gicentre/onto/desiventar/8> <https://w3id.org/gicentre/onto/desiventar/Date> "https://w3id.org/gicentre/onto/desiventar/2016-11-14" .
+<https://w3id.org/gicentre/onto/desiventar/8> <https://w3id.org/gicentre/onto/desiventar/Comments> "https://w3id.org/gicentre/onto/desiventar/construction materials needed,food and other non food materials." .
+<https://w3id.org/gicentre/onto/desiventar/8> <https://w3id.org/gicentre/onto/desiventar/Cause> "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" .
+<https://w3id.org/gicentre/onto/desiventar/8> <https://w3id.org/gicentre/onto/desiventar/Injured> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/8> <https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/9> <https://w3id.org/gicentre/onto/desiventar/Event> "https://w3id.org/gicentre/onto/desiventar/FLOOD" .
+<https://w3id.org/gicentre/onto/desiventar/9> <https://w3id.org/gicentre/onto/desiventar/District> "https://w3id.org/gicentre/onto/desiventar/AMUDAT" .
+<https://w3id.org/gicentre/onto/desiventar/9> <https://w3id.org/gicentre/onto/desiventar/Date> "https://w3id.org/gicentre/onto/desiventar/2018-06-20" .
+<https://w3id.org/gicentre/onto/desiventar/9> <https://w3id.org/gicentre/onto/desiventar/Source> "https://w3id.org/gicentre/onto/desiventar/DISTRICT" .
+<https://w3id.org/gicentre/onto/desiventar/9> <https://w3id.org/gicentre/onto/desiventar/Injured> "https://w3id.org/gicentre/onto/desiventar/0" .
+<https://w3id.org/gicentre/onto/desiventar/9> <https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .

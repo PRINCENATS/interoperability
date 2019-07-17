@@ -1,0 +1,113 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ns1: <https://w3id.org/gicentre/onto/redcross/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+ns1:0 ns1:TypeOfDisaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:DateReported "https://w3id.org/gicentre/onto/redcross/Fri Dec 09 00:00:00 GMT-08:00 2011" ;
+	ns1:DateOfFirstResponse "https://w3id.org/gicentre/onto/redcross/Sun Dec 11 00:00:00 GMT-08:00 2011" ;
+	ns1:ResponseTime "https://w3id.org/gicentre/onto/redcross/72" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Soroti" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Serere" .
+
+ns1:1 ns1:TypeOfDisaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:DateReported "https://w3id.org/gicentre/onto/redcross/Fri Dec 09 00:00:00 GMT-08:00 2011" ;
+	ns1:DateOfFirstResponse "https://w3id.org/gicentre/onto/redcross/Sun Dec 11 00:00:00 GMT-08:00 2011" ;
+	ns1:ResponseTime "https://w3id.org/gicentre/onto/redcross/72" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kumi" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Mukongoro" .
+
+ns1:2 ns1:TypeOfDisaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:DateReported "https://w3id.org/gicentre/onto/redcross/Sat Dec 10 00:00:00 GMT-08:00 2011" ;
+	ns1:DateOfFirstResponse "https://w3id.org/gicentre/onto/redcross/Sun Dec 11 00:00:00 GMT-08:00 2011" ;
+	ns1:ResponseTime "https://w3id.org/gicentre/onto/redcross/48" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Katakwi" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Amuria" .
+
+ns1:3 ns1:TypeOfDisaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:DateReported "https://w3id.org/gicentre/onto/redcross/Sat Dec 10 00:00:00 GMT-08:00 2011" ;
+	ns1:DateOfFirstResponse "https://w3id.org/gicentre/onto/redcross/Sun Dec 11 00:00:00 GMT-08:00 2011" ;
+	ns1:ResponseTime "https://w3id.org/gicentre/onto/redcross/48" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kapchorwa " ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kween" .
+
+ns1:4 ns1:TypeOfDisaster "https://w3id.org/gicentre/onto/redcross/Conflict" ;
+	ns1:DateReported "https://w3id.org/gicentre/onto/redcross/Tue Dec 13 00:00:00 GMT-08:00 2011" ;
+	ns1:DateOfFirstResponse "https://w3id.org/gicentre/onto/redcross/Tue Dec 13 00:00:00 GMT-08:00 2011" ;
+	ns1:ResponseTime "https://w3id.org/gicentre/onto/redcross/24" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Alulu community" .
+
+ns1:5 ns1:TypeOfDisaster "https://w3id.org/gicentre/onto/redcross/Nodding disease" ;
+	ns1:DateReported "https://w3id.org/gicentre/onto/redcross/Tue Dec 27 00:00:00 GMT-08:00 2011" ;
+	ns1:DateOfFirstResponse "https://w3id.org/gicentre/onto/redcross/Tue Dec 27 00:00:00 GMT-08:00 2011" ;
+	ns1:ResponseTime "https://w3id.org/gicentre/onto/redcross/24" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Pader" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Angagura, Atanga, Awere, Puranga &Laguli" .
+
+ns1:6 ns1:TypeOfDisaster "https://w3id.org/gicentre/onto/redcross/Drowning" ;
+	ns1:DateReported "https://w3id.org/gicentre/onto/redcross/Tue Dec 27 00:00:00 GMT-08:00 2011" ;
+	ns1:DateOfFirstResponse "https://w3id.org/gicentre/onto/redcross/Tue Dec 27 00:00:00 GMT-08:00 2011" ;
+	ns1:ResponseTime "https://w3id.org/gicentre/onto/redcross/24" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kampala and Hoima" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kabaka's lake and Butyaba port" .
+
+ns1:7 ns1:TypeOfDisaster "https://w3id.org/gicentre/onto/redcross/Displacement" ;
+	ns1:DateReported "https://w3id.org/gicentre/onto/redcross/Thu Dec 29 00:00:00 GMT-08:00 2011" ;
+	ns1:DateOfFirstResponse "https://w3id.org/gicentre/onto/redcross/Thu Dec 29 00:00:00 GMT-08:00 2011" ;
+	ns1:ResponseTime "https://w3id.org/gicentre/onto/redcross/24" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Jinja" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Jinja- Marine landing site-Boma Parish" .
+
+ns1:8 ns1:TypeOfDisaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:DateReported "https://w3id.org/gicentre/onto/redcross/Fri Dec 30 00:00:00 GMT-08:00 2011" ;
+	ns1:DateOfFirstResponse "https://w3id.org/gicentre/onto/redcross/Fri Dec 30 00:00:00 GMT-08:00 2011" ;
+	ns1:ResponseTime "https://w3id.org/gicentre/onto/redcross/24" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Jinja, Kampala North" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Jinja-Napier Market and Bwaise Timber market" .
+
+ns1:9 ns1:TypeOfDisaster "https://w3id.org/gicentre/onto/redcross/Conflict" ;
+	ns1:DateReported "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" ;
+	ns1:DateOfFirstResponse "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" ;
+	ns1:ResponseTime "https://w3id.org/gicentre/onto/redcross/24" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Luwero" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Luwero" .
+
+ns1:10 ns1:TypeOfDisaster "https://w3id.org/gicentre/onto/redcross/Assaults" ;
+	ns1:DateReported "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" ;
+	ns1:DateOfFirstResponse "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" ;
+	ns1:ResponseTime "https://w3id.org/gicentre/onto/redcross/24" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kampala  North  " ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Bwaise Katanga" .
+
+ns1:11 ns1:TypeOfDisaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:DateReported "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" ;
+	ns1:DateOfFirstResponse "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" ;
+	ns1:ResponseTime "https://w3id.org/gicentre/onto/redcross/24" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kampala East " ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Bukoto" .
+
+ns1:12 ns1:TypeOfDisaster "https://w3id.org/gicentre/onto/redcross/Road accidents" ;
+	ns1:DateReported "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" ;
+	ns1:DateOfFirstResponse "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" ;
+	ns1:ResponseTime "https://w3id.org/gicentre/onto/redcross/24" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch """https://w3id.org/gicentre/onto/redcross/Kampala ,
+ Hoima,
+ Mityana,""" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Entebbe rd, Naguru, Kabalagala, Bwebajja, Ndejje, Mityana, Nakulabye, Moyo, Hoima,  Masaka" .

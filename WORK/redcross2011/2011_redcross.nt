@@ -1,0 +1,144 @@
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/TypeOfDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/DateReported> "https://w3id.org/gicentre/onto/redcross/Fri Dec 09 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Dec 11 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/72" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Soroti" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Serere" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/1007" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Popn> "https://w3id.org/gicentre/onto/redcross/55612" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/H%2FH+targeted> "https://w3id.org/gicentre/onto/redcross/661" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Popn+targeted> "https://w3id.org/gicentre/onto/redcross/3966" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Remarks> "https://w3id.org/gicentre/onto/redcross/Distributed NFI's only to H/Hs houses destroyed /damaged by floods others lost crops/gardens " .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/TypeOfDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/DateReported> "https://w3id.org/gicentre/onto/redcross/Fri Dec 09 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Dec 11 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/72" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kumi" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Mukongoro" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/1389" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Popn> "https://w3id.org/gicentre/onto/redcross/7780" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/H%2FH+targeted> "https://w3id.org/gicentre/onto/redcross/192" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Popn+targeted> "https://w3id.org/gicentre/onto/redcross/960" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Remarks> "https://w3id.org/gicentre/onto/redcross/Distributed NFI's only to H/Hs houses destroyed /damaged by floods others lost crops/gardens " .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/TypeOfDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/DateReported> "https://w3id.org/gicentre/onto/redcross/Sat Dec 10 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Dec 11 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Katakwi" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Amuria" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/746" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Popn> "https://w3id.org/gicentre/onto/redcross/4476" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/H%2FH+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Popn+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Remarks> "https://w3id.org/gicentre/onto/redcross/Mainly damage to crops and gardens" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/TypeOfDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/DateReported> "https://w3id.org/gicentre/onto/redcross/Sat Dec 10 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Dec 11 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kapchorwa " .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kween" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/701" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/Popn> "https://w3id.org/gicentre/onto/redcross/3050" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/H%2FH+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/Popn+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/TypeOfDisaster> "https://w3id.org/gicentre/onto/redcross/Conflict" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/DateReported> "https://w3id.org/gicentre/onto/redcross/Tue Dec 13 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Dec 13 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Alulu community" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/25" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Popn> "https://w3id.org/gicentre/onto/redcross/76" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/H%2FH+targeted> "https://w3id.org/gicentre/onto/redcross/25" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Popn+targeted> "https://w3id.org/gicentre/onto/redcross/75" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/TypeOfDisaster> "https://w3id.org/gicentre/onto/redcross/Nodding disease" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/DateReported> "https://w3id.org/gicentre/onto/redcross/Tue Dec 27 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Dec 27 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Pader" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Angagura, Atanga, Awere, Puranga &Laguli" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Popn> "https://w3id.org/gicentre/onto/redcross/2000" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Popn+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/TypeOfDisaster> "https://w3id.org/gicentre/onto/redcross/Drowning" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/DateReported> "https://w3id.org/gicentre/onto/redcross/Tue Dec 27 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Dec 27 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala and Hoima" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kabaka's lake and Butyaba port" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Popn> "https://w3id.org/gicentre/onto/redcross/2" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/H%2FH+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Popn+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/TypeOfDisaster> "https://w3id.org/gicentre/onto/redcross/Displacement" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/DateReported> "https://w3id.org/gicentre/onto/redcross/Thu Dec 29 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Dec 29 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Jinja" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Jinja- Marine landing site-Boma Parish" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/70" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Popn> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/H%2FH+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Popn+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/TypeOfDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/DateReported> "https://w3id.org/gicentre/onto/redcross/Fri Dec 30 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Dec 30 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Jinja, Kampala North" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Jinja-Napier Market and Bwaise Timber market" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Popn> "https://w3id.org/gicentre/onto/redcross/6" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/H%2FH+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Popn+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/TypeOfDisaster> "https://w3id.org/gicentre/onto/redcross/Conflict" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/DateReported> "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Luwero" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Luwero" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Popn> "https://w3id.org/gicentre/onto/redcross/1" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/H%2FH+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Popn+targeted> "https://w3id.org/gicentre/onto/redcross/1" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/TypeOfDisaster> "https://w3id.org/gicentre/onto/redcross/Assaults" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/DateReported> "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala  North  " .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bwaise Katanga" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Popn> "https://w3id.org/gicentre/onto/redcross/4" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/H%2FH+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Popn+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/TypeOfDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/DateReported> "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala East " .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bukoto" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Popn> "https://w3id.org/gicentre/onto/redcross/1" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/H%2FH+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Popn+targeted> "https://w3id.org/gicentre/onto/redcross/1" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/TypeOfDisaster> "https://w3id.org/gicentre/onto/redcross/Road accidents" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/DateReported> "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Dec 31 00:00:00 GMT-08:00 2011" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala ,\r\n Hoima,\r\n Mityana," .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Entebbe rd, Naguru, Kabalagala, Bwebajja, Ndejje, Mityana, Nakulabye, Moyo, Hoima,  Masaka" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Popn> "https://w3id.org/gicentre/onto/redcross/76" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/H%2FH+targeted> "https://w3id.org/gicentre/onto/redcross/0" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Popn+targeted> "https://w3id.org/gicentre/onto/redcross/76" .

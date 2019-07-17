@@ -1,0 +1,854 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ns1: <https://w3id.org/gicentre/onto/redcross/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+ns1:0 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/13.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/January" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/14:45 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/13/January" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/17.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/January" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/08:10 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/17/January" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Moroto" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Napak" .
+
+ns1:1 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/6.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/January" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/10:30 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/6/January" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/14.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/January" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:34 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/14/January" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/216.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Adjumani" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Dzaipi" .
+
+ns1:2 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/6.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/January" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/15:43 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/6/January" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/14.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/January" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/18:12 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/14/January" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/216.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Arua" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Koboko" .
+
+ns1:3 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross//" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross//" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/`" .
+
+ns1:4 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/23.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/January" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/15:20 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/23/January" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/January" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:15 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/24/January" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Iganga" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Bukana" .
+
+ns1:5 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/20.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/January" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/11:44 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/20/January" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/21.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/January" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/15:46hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/21/January" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Luwero" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kamira" .
+
+ns1:6 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/2.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/February" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/9:10 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/2/February" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/3.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/February" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/16:20 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/3/February" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kasese" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Maliba" .
+
+ns1:7 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/18.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/February" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/Sun Dec 31 14:13:00 GMT-08:00 1899" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/18/February" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/21.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/February" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:13 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/21/February" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kampala west" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kisenyi" .
+
+ns1:8 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/23.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/February" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/19:20 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/23/February" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/February" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:20 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/24/February" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Luwero" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Town " .
+
+ns1:9 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/February" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/Sun Dec 31 13:20:00 GMT-08:00 1899" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/24/February" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/25.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/February" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/Sun Dec 31 10:14:00 GMT-08:00 1899" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/25/February" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Iganga" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Nakalama" .
+
+ns1:10 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/8.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/9:02 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/8/March" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/9.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:40 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/9/March" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Moroto" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Napak" .
+
+ns1:11 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/6.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/8:44 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/6/March" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/6.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:13 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/6/March" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Luwero" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Befell" .
+
+ns1:12 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/6.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/20:43 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/6/March" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/7.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/11:20 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/7/March" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Mityana" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Mubende" .
+
+ns1:13 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/6.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/11:34 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/6/March" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/10.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/11:51 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/10/March" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/120.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Jinja" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kagoma" .
+
+ns1:14 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/13.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/10:9 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/13/March" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/15.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/15:03 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/15/March" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Butemba" .
+
+ns1:15 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/15.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/23:21 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/15/March" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/16.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/11:13hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/16/March" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Mityana" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kalwana" .
+
+ns1:16 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Boat accident" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/23.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/8:13hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/23/March" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/11:15 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/24/March" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Bundibugyo" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Ntoroko" .
+
+ns1:17 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/29.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/10:15 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/29/March" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/31.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/11:34 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/31/March" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kamuli" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Buzaya" .
+
+ns1:18 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/29.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/11:12 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/29/March" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/30.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/March" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:14 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/30/March" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Jinja" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Butagaya" .
+
+ns1:19 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/1.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/April" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/08:10 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/1/April" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/2.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/April" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/Sun Dec 31 14:34:00 GMT-08:00 1899" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/2/April" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Tororo" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Butaleja" .
+
+ns1:20 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/3.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/April" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/10:05 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/3/April" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/5.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/April" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/11:10 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/5/April" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kapchorwa" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Ngenge" .
+
+ns1:21 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/10.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/April" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/08:10 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/10/April" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/10.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/April" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/13:58 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/10/April" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Mukono" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Nama s/c" .
+
+ns1:22 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/23.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/April" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/00:01 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/23/April" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/23.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/April" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/09:10 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/23/April" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Patiko s/c" .
+
+ns1:23 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Cholera" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/27.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/April" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/08:00 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/27/April" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/27.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/April" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/18:01 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/27/April" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Moyo" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Moyo" .
+
+ns1:24 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/1.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/May" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/22:10 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/1/May" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/2.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/May" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:15 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/2/May" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Arua" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Yumbe/Kei" .
+
+ns1:25 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/3.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/May" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/10:00 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/3/May" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/5.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/May" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/8:00 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/5/May" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kasese" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Nyamwamba" .
+
+ns1:26 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/6.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/May" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/18:02 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/6/May" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/6.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/May" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/18:40 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/6/May" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kampala west" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kisenyi" .
+
+ns1:27 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/20.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/May" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/14:00 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/20/May" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/20.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/May" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/20:20 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/20/May" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kasese" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Bwera ss" .
+
+ns1:28 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/26.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/May" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/08:30 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/26/May" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/26.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/May" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:15 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/26/May" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Iganga" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Nawangisa" .
+
+ns1:29 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Cholera" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/29.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/May" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/09:12 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/29/May" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/29.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/May" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/12:10 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/29/May" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Iganga" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Namayingo" .
+
+ns1:30 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/1.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/June" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/10:16 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/1/June" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/1.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/June" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/13:08 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/1/June" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Masaka" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Bukakata" .
+
+ns1:31 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Landslide" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/2.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/June" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/18:09 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/2/June" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/4.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/June" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:133 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/4/June" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Bubulo" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Bududa" .
+
+ns1:32 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/9.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/June" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/06:45 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/9/June" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/9.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/June" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/12:42 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/9/June" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kampala west" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kabowa" .
+
+ns1:33 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/9.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/June" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/10:05 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/9/June" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/10.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/June" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/9:10 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/10/June" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Masaka" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kyesiga" .
+
+ns1:34 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/27.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/June" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/05:30 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/27/June" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/27.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/June" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/6:45 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/27/June" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kampala west" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Busega mkt" .
+
+ns1:35 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Civil conflict" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/5.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/July" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/19:05 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/5/July" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/6.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/July" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/9:09 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/6/July" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kasese" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kitswamba s/c" .
+
+ns1:36 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Civil conflict" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/6.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/July" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/10:15 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/6/July" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/6.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/July" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/14:34 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/6/July" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Bundibugyo" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Bundibugyo town" .
+
+ns1:37 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/15.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/July" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/20:56 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/15/July" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/16.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/July" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/08:02 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/16/July" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Comprehensive" .
+
+ns1:38 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Landslide" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/23.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/July" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/14:00hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/23/July" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/July" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/08:00 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/24/July" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Sironko" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Zesui" .
+
+ns1:39 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/23.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/August" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/06:45 hrs  " ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/23/August" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/August" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/8:15 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/24/August" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Masaka" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kisojo parish" .
+
+ns1:40 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/August" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/23:34 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/24/August" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/25.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/August" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/09:23 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/25/August" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Masaka" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kalungu s/c" .
+
+ns1:41 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/1.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/14:13 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/1/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/2.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/08:10 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/2/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Rakai" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kagamba s/c" .
+
+ns1:42 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/3.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/04:15 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/3/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/4.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/08:06 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/4/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kalangala" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Bufumira s/c" .
+
+ns1:43 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Eviction" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/3.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/16:12 hrs " ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/3/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/4.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/08:43 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/4/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Bugambe s/c" .
+
+ns1:44 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/4.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/08:10 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/4/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/5.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/11:04 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/5/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Bukedea" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Tajar" .
+
+ns1:45 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/4.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/06:10 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/4/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/5.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/16:10 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/5/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Bukedea" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Koidike" .
+
+ns1:46 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/4.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/08:15 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/4/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/5.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/08:13 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/5/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Bukedea" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Akakaat" .
+
+ns1:47 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Water logging" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/8.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/11:21 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/8/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/9.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/09:03 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/9/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Lira" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Otuke" .
+
+ns1:48 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Water logging" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/8.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/13:10 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/8/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/9.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:20 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/9/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Lira" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Alebtong" .
+
+ns1:49 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/6.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/23:15 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/6/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/8.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/8:15 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/8/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Tororo" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Butaleja" .
+
+ns1:50 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/8.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/08:14 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/8/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/9.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/14:05 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/9/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Library" .
+
+ns1:51 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/9.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/10:29 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/9/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/10.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:15 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/10/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Wanale/Busano" .
+
+ns1:52 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/9.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/09:35 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/9/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/10.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/12:34 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/10/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kotido" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Abim/Pupu" .
+
+ns1:53 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/13.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/18:10 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/13/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/14.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:15hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/14/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Luwero" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kamira s/c" .
+
+ns1:54 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Tribal conflict" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/15.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/10:15 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/15/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/16.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/17:41 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/16/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Moyo" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Wano village" .
+
+ns1:55 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Landslide" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/18.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/14:03 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/18/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/19.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/12:27 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/19/Sept" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Sironko" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Bulambuli" .
+
+ns1:56 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/29.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/08:12 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/29/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/1.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/October" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/10:15 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/1/October" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Central" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Kalangala" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kitobo" .
+
+ns1:57 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/29.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/Sept" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/12:47 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/29/Sept" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/2.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/October" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/11:05 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/2/October" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kisabagwa" .
+
+ns1:58 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/21.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/October" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/01:13 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/21/October" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/22.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/October" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/9:18 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/22/October" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Sironko" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Bulambuli" .
+
+ns1:59 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/1.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/November" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/18:24 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/1/November" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/2.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/November" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/15:13 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/2/November" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Bundibugyo" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Ntoroko" .
+
+ns1:60 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/Land clashes" ;
+	ns1:Day_Reported "https://w3id.org/gicentre/onto/redcross/3.0" ;
+	ns1:Month_Reported "https://w3id.org/gicentre/onto/redcross/December" ;
+	ns1:Time_Reported "https://w3id.org/gicentre/onto/redcross/15:25 hrs" ;
+	ns1:Date_Reported "https://w3id.org/gicentre/onto/redcross/3/December" ;
+	ns1:Date_of_first_Response "https://w3id.org/gicentre/onto/redcross/4.0" ;
+	ns1:Month_of_first_response "https://w3id.org/gicentre/onto/redcross/December" ;
+	ns1:Time_of_first_response "https://w3id.org/gicentre/onto/redcross/09:10 hrs" ;
+	ns1:Date_of_first_response "https://w3id.org/gicentre/onto/redcross/4/December" ;
+	ns1:Response_time "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	ns1:Region "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Branch "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	ns1:Location "https://w3id.org/gicentre/onto/redcross/Kabwoya s/c" .
+
+ns1:61 ns1:Type_Of_Disaster "https://w3id.org/gicentre/onto/redcross/^^^^^PLEASE CLICK ON THE LINE ABOVE TO INSERT MORE ROWS^^^^^" .

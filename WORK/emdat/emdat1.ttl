@@ -1,0 +1,118 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ns1: <https://w3id.org/gicentre/onto/em/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+ns1:0 <https://w3id.org/gicentre/onto/em/Start+date> "https://w3id.org/gicentre/onto/em/01/01/1901" ;
+	<https://w3id.org/gicentre/onto/em/End+date> "https://w3id.org/gicentre/onto/em/01/01/1901" ;
+	ns1:Country "https://w3id.org/gicentre/onto/em/Uganda" ;
+	ns1:Location "https://w3id.org/gicentre/onto/em/Nationwide" ;
+	<https://w3id.org/gicentre/onto/em/Magnitude+scale> "https://w3id.org/gicentre/onto/em/Vaccinated" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+type> "https://w3id.org/gicentre/onto/em/Epidemic" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+subtype> "https://w3id.org/gicentre/onto/em/--" ;
+	<https://w3id.org/gicentre/onto/em/Associated+disaster> "https://w3id.org/gicentre/onto/em/--" ;
+	<https://w3id.org/gicentre/onto/em/Total+damage> "https://w3id.org/gicentre/onto/em/0" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+No> "https://w3id.org/gicentre/onto/em/1901-0001" .
+
+ns1:1 <https://w3id.org/gicentre/onto/em/Start+date> "https://w3id.org/gicentre/onto/em/01/01/1935" ;
+	<https://w3id.org/gicentre/onto/em/End+date> "https://w3id.org/gicentre/onto/em/01/01/1935" ;
+	ns1:Country "https://w3id.org/gicentre/onto/em/Uganda" ;
+	<https://w3id.org/gicentre/onto/em/Magnitude+scale> "https://w3id.org/gicentre/onto/em/Vaccinated" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+type> "https://w3id.org/gicentre/onto/em/Epidemic" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+subtype> "https://w3id.org/gicentre/onto/em/Bacterial disease" ;
+	<https://w3id.org/gicentre/onto/em/Associated+disaster> "https://w3id.org/gicentre/onto/em/--" ;
+	<https://w3id.org/gicentre/onto/em/Total+damage> "https://w3id.org/gicentre/onto/em/0" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+name> "https://w3id.org/gicentre/onto/em/Bubonic" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+No> "https://w3id.org/gicentre/onto/em/1935-0001" .
+
+ns1:2 <https://w3id.org/gicentre/onto/em/Start+date> "https://w3id.org/gicentre/onto/em/02/01/1967" ;
+	<https://w3id.org/gicentre/onto/em/End+date> "https://w3id.org/gicentre/onto/em/02/01/1967" ;
+	ns1:Country "https://w3id.org/gicentre/onto/em/Uganda" ;
+	ns1:Location "https://w3id.org/gicentre/onto/em/Karamoja" ;
+	<https://w3id.org/gicentre/onto/em/Magnitude+scale> "https://w3id.org/gicentre/onto/em/Km2" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+type> "https://w3id.org/gicentre/onto/em/Drought" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+subtype> "https://w3id.org/gicentre/onto/em/Drought" ;
+	<https://w3id.org/gicentre/onto/em/Associated+disaster> "https://w3id.org/gicentre/onto/em/--" ;
+	<https://w3id.org/gicentre/onto/em/Total+damage> "https://w3id.org/gicentre/onto/em/200" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+No> "https://w3id.org/gicentre/onto/em/1967-9001" .
+
+ns1:3 <https://w3id.org/gicentre/onto/em/Start+date> "https://w3id.org/gicentre/onto/em/12/02/1979" ;
+	<https://w3id.org/gicentre/onto/em/End+date> "https://w3id.org/gicentre/onto/em/12/02/1979" ;
+	ns1:Country "https://w3id.org/gicentre/onto/em/Uganda" ;
+	ns1:Location "https://w3id.org/gicentre/onto/em/Karamoja" ;
+	<https://w3id.org/gicentre/onto/em/Magnitude+scale> "https://w3id.org/gicentre/onto/em/Km2" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+type> "https://w3id.org/gicentre/onto/em/Drought" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+subtype> "https://w3id.org/gicentre/onto/em/Drought" ;
+	<https://w3id.org/gicentre/onto/em/Associated+disaster> "https://w3id.org/gicentre/onto/em/--" ;
+	<https://w3id.org/gicentre/onto/em/Total+damage> "https://w3id.org/gicentre/onto/em/0" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+No> "https://w3id.org/gicentre/onto/em/1979-9128" .
+
+ns1:4 <https://w3id.org/gicentre/onto/em/Start+date> "https://w3id.org/gicentre/onto/em/16/03/1982" ;
+	<https://w3id.org/gicentre/onto/em/End+date> "https://w3id.org/gicentre/onto/em/16/03/1982" ;
+	ns1:Country "https://w3id.org/gicentre/onto/em/Uganda" ;
+	<https://w3id.org/gicentre/onto/em/Magnitude+scale> "https://w3id.org/gicentre/onto/em/Vaccinated" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+type> "https://w3id.org/gicentre/onto/em/Epidemic" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+subtype> "https://w3id.org/gicentre/onto/em/Bacterial disease" ;
+	<https://w3id.org/gicentre/onto/em/Associated+disaster> "https://w3id.org/gicentre/onto/em/--" ;
+	<https://w3id.org/gicentre/onto/em/Total+damage> "https://w3id.org/gicentre/onto/em/0" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+name> "https://w3id.org/gicentre/onto/em/Plague" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+No> "https://w3id.org/gicentre/onto/em/1982-0408" .
+
+ns1:5 <https://w3id.org/gicentre/onto/em/Start+date> "https://w3id.org/gicentre/onto/em/04/05/1986" ;
+	<https://w3id.org/gicentre/onto/em/End+date> "https://w3id.org/gicentre/onto/em/04/05/1986" ;
+	ns1:Country "https://w3id.org/gicentre/onto/em/Uganda" ;
+	<https://w3id.org/gicentre/onto/em/Magnitude+scale> "https://w3id.org/gicentre/onto/em/Vaccinated" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+type> "https://w3id.org/gicentre/onto/em/Epidemic" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+subtype> "https://w3id.org/gicentre/onto/em/Bacterial disease" ;
+	<https://w3id.org/gicentre/onto/em/Associated+disaster> "https://w3id.org/gicentre/onto/em/--" ;
+	<https://w3id.org/gicentre/onto/em/Total+damage> "https://w3id.org/gicentre/onto/em/0" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+name> "https://w3id.org/gicentre/onto/em/Plague" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+No> "https://w3id.org/gicentre/onto/em/1986-0403" .
+
+ns1:6 <https://w3id.org/gicentre/onto/em/Start+date> "https://w3id.org/gicentre/onto/em/14/12/1987" ;
+	<https://w3id.org/gicentre/onto/em/End+date> "https://w3id.org/gicentre/onto/em/14/12/1987" ;
+	ns1:Country "https://w3id.org/gicentre/onto/em/Uganda" ;
+	ns1:Location "https://w3id.org/gicentre/onto/em/Karamoja, Northwestern" ;
+	<https://w3id.org/gicentre/onto/em/Magnitude+scale> "https://w3id.org/gicentre/onto/em/Km2" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+type> "https://w3id.org/gicentre/onto/em/Drought" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+subtype> "https://w3id.org/gicentre/onto/em/Drought" ;
+	<https://w3id.org/gicentre/onto/em/Associated+disaster> "https://w3id.org/gicentre/onto/em/--" ;
+	<https://w3id.org/gicentre/onto/em/Total+damage> "https://w3id.org/gicentre/onto/em/0" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+No> "https://w3id.org/gicentre/onto/em/1987-9031" .
+
+ns1:7 <https://w3id.org/gicentre/onto/em/Start+date> "https://w3id.org/gicentre/onto/em/04/12/1989" ;
+	<https://w3id.org/gicentre/onto/em/End+date> "https://w3id.org/gicentre/onto/em/04/12/1989" ;
+	ns1:Country "https://w3id.org/gicentre/onto/em/Uganda" ;
+	ns1:Location "https://w3id.org/gicentre/onto/em/Kampala, Mbale,  Arua" ;
+	<https://w3id.org/gicentre/onto/em/Magnitude+scale> "https://w3id.org/gicentre/onto/em/Vaccinated" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+type> "https://w3id.org/gicentre/onto/em/Epidemic" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+subtype> "https://w3id.org/gicentre/onto/em/Bacterial disease" ;
+	<https://w3id.org/gicentre/onto/em/Associated+disaster> "https://w3id.org/gicentre/onto/em/--" ;
+	<https://w3id.org/gicentre/onto/em/Total+damage> "https://w3id.org/gicentre/onto/em/0" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+name> "https://w3id.org/gicentre/onto/em/Meningococcal disease" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+No> "https://w3id.org/gicentre/onto/em/1989-0244" .
+
+ns1:8 <https://w3id.org/gicentre/onto/em/Start+date> "https://w3id.org/gicentre/onto/em/01/01/1990" ;
+	<https://w3id.org/gicentre/onto/em/End+date> "https://w3id.org/gicentre/onto/em/01/01/1990" ;
+	ns1:Country "https://w3id.org/gicentre/onto/em/Uganda" ;
+	ns1:Location "https://w3id.org/gicentre/onto/em/Countrywide" ;
+	<https://w3id.org/gicentre/onto/em/Magnitude+scale> "https://w3id.org/gicentre/onto/em/Vaccinated" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+type> "https://w3id.org/gicentre/onto/em/Epidemic" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+subtype> "https://w3id.org/gicentre/onto/em/Bacterial disease" ;
+	<https://w3id.org/gicentre/onto/em/Associated+disaster> "https://w3id.org/gicentre/onto/em/--" ;
+	<https://w3id.org/gicentre/onto/em/Total+damage> "https://w3id.org/gicentre/onto/em/0" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+name> "https://w3id.org/gicentre/onto/em/Meningococcal disease" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+No> "https://w3id.org/gicentre/onto/em/1990-0618" .
+
+ns1:9 <https://w3id.org/gicentre/onto/em/Start+date> "https://w3id.org/gicentre/onto/em/03/03/1991" ;
+	<https://w3id.org/gicentre/onto/em/End+date> "https://w3id.org/gicentre/onto/em/03/03/1991" ;
+	ns1:Country "https://w3id.org/gicentre/onto/em/Uganda" ;
+	<https://w3id.org/gicentre/onto/em/Magnitude+scale> "https://w3id.org/gicentre/onto/em/Vaccinated" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+type> "https://w3id.org/gicentre/onto/em/Epidemic" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+subtype> "https://w3id.org/gicentre/onto/em/Bacterial disease" ;
+	<https://w3id.org/gicentre/onto/em/Associated+disaster> "https://w3id.org/gicentre/onto/em/--" ;
+	<https://w3id.org/gicentre/onto/em/Total+damage> "https://w3id.org/gicentre/onto/em/0" ;
+	<https://w3id.org/gicentre/onto/em/Disaster+No> "https://w3id.org/gicentre/onto/em/1991-0083" .
