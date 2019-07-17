@@ -1,0 +1,1366 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Jan 12 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/02:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Jan 12 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/15:48 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kalangala" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Buyinja" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/47.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/235.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/235.0" .
+
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Thu Feb 21 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/15:12 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Feb 22 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Rakai" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kibuuka" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/30.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/169.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/169.0" .
+
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Thu Feb 28 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/06:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Feb 28 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/16:45 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kisoro" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bunagana" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/768.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/4000.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Mar 01 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/13: 27 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Mar 01 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/15:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Rakai" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kasensero" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/152.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/488.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Mar 02 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/20:05 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Mar 02 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/22:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala West" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Sembule" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/138.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Mar 03 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/16:45 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Mar 03 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/18:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Sironko" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/St. Peters Clavers" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/110.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Mar 10 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/12:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Mar 11 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/11:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Namabasa" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/475.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1320.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1216.0" .
+
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Wed Mar 13 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/14:24 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Mar 14 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Tororo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Mazimasa" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/271.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1983.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1983.0" .
+
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Thu Mar 14 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/14:33hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Mar 15 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/14:24 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kalangala" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Lujjabwa" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/205.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/611.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/611.0" .
+
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Internal conflict" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Thu Mar 14 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/12:37 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Mar 17 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Tororo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Malaba Town " ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/147.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/738.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Thu Mar 14 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/16:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Mar 18 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/12:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/96.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Lalogi" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/30.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/167.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/167.0" .
+
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Mar 15 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/04:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Mar 16 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/08:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kamuli" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kyamatende" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/5.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/17.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Mar 16 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/18:51 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Mar 17 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bundibugyo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kanara" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/239.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1189.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Road accident" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Mon Mar 18 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/06:12 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Mar 18 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/06:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala North" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bwaise" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/121.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/121.0" .
+
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Mon Mar 18 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/05:32 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Mar 19 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/02:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masaka" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Lwebitakuli" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/501.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/2345.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/2345.0" .
+
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Wed Mar 20 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/15:29 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Mar 25 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/120.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kisoro" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kanaba" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/150.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/687.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/252.0" .
+
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Road accident" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Tue Mar 26 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/13:36 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Mar 26 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/13:59 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masaka" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Lwengo" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/68.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/60.0" .
+
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Landslide" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Wed Mar 27 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/17:43 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Mar 28 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/02:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kisoro" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kanaba/Murora" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/254.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1256.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1256.0" .
+
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Road accident" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Mar 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/14:23 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Mar 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/23:17 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala North" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Northern bypass" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1.0" .
+
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Road accident" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Mar 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/08:49 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Mar 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Isingiro road" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1.0" .
+
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Road accident" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Mar 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/12:55 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Mar 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/12:59 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mityana" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bulamu" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/6.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/6.0" .
+
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Mar 30 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/21:18 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Mar 30 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/22:26 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Amuru" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/1.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/4.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Road accident" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Mar 30 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/16:50 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Mar 30 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/17:57 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala West" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Rubaga Road" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1.0" .
+
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Road accident" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Mar 31 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/10:14 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Mar 31 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/13:35 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Entebbe" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Sseguku" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/3.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/3.0" .
+
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Thu Apr 04 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/12:38 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Apr 05 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/03:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kibaale" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bwikara" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/31.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/89.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/89.0" .
+
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Thu Apr 04 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/04:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Apr 05 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Sironko" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Namisuni/mabono" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/158.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/795.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Wed Apr 10 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/06:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Apr 11 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:35 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Tororo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Osukuru" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/68.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/476.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Cholera" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Apr 12 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/12:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Apr 12 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/15:45 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kigorobya" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/0.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/63.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/559.0" .
+
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Apr 12 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/08:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Apr 13 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:45 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bubulo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bukusu" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/4.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/23.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Apr 13 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/05:00hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Apr 15 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/08:00hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kalangala" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kitobo island" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/361.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/2256.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1765.0" .
+
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Apr 19 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/02:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Apr 20 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:00hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bubulo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bumulyanyuma" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/315.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1867.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1867.0" .
+
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Apr 19 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/02:00hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Apr 19 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/04:00hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Rakai" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/St.Mary" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/0.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/450.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/450.0" .
+
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Landslide" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Apr 20 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/15:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Apr 22 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/14:00hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kapchorwa" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Tuel/Kapkwon" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/576.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/2880.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Apr 21 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/11:15hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Apr 22 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:00hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bukiende" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/193.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1331.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/582.0" .
+
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Mon Apr 22 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/09:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Apr 22 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/12:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Lwasso" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/192.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1379.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1379.0" .
+
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Mon Apr 22 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/09:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Apr 22 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/12:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bukonde" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/522.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/7031.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Wed Apr 24 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/00:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Apr 25 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/08:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kalangala" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Nkese" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/53.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/267.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/267.0" .
+
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Apr 27 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/16:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Apr 28 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:45 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kamuli" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Nkondo" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/69.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/525.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/525.0" .
+
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Apr 27 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/11:36 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Apr 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/18:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kapchorwa" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kapsinda" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/124.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/595.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Cholera" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Apr 28 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/14:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Apr 30 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/08:50 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masindi" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Buliisa Sub-cty" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/ " ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/6350.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/6350.0" .
+
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Apr 28 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/12:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Apr 30 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Nebbi" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Panyimur" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/0.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/127.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/127.0" .
+
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Wed May 01 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/02:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu May 02 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/11:26 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kasese" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kasese Municipal" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/3965.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/25455.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/13368.0" .
+
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun May 05 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/13:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon May 06 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bundibugyo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bweramule S/cty" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/60.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/318.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Tue May 07 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/08:45 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Wed May 08 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:55 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kapchorwa" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kirik, Kolite" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/109.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/603.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Thu May 09 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/06:40 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri May 10 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/12:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Rakai" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kasensero" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/195.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1170.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1170.0" .
+
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Mon May 13 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/14:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue May 14 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/11:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Nebbi" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Jupalei East" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/15.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/90.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/90.0" .
+
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Mon May 13 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/10:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon May 13 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/12:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kisoro" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Nyakabande" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/1572.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/6289.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/6289.0" .
+
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun May 26 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/15:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon May 27 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kalangala" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Nakatiba" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/57.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/247.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/247.0" .
+
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Prolonged dry spell" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Jun 01 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/17:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Wed Jun 05 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/12:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/96.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Moyo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Metu, Laropi" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/595.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/3100.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Jun 09 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/09:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Jun 09 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:40 hrs " ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mpigi" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/St John Bosco" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/141.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Wed Jun 19 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/10:35 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Wed Jun 19 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/17:25 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mukono" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Mbiko" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/103.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/298.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Internal conflict" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Jun 23 00:00:00 GMT-08:00 2103" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/15:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Wed Jun 26 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/12:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Arua" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Vurra" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/113.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/662.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Road accident" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Jun 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/22:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Jun 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/22:23 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala West" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Northern bypass" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/87.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/43.0" .
+
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Jun 30 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/19:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Jul 01 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:24 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kalangala" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Nkose Katooke" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/41.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/182.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/182.0" .
+
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Mon Jul 01 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/12:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Wed Jul 03 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/14:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bubulo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bududa" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/840.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/3244.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/3244.0" .
+
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Jul 05 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/23:45 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Jul 06 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:08 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kalangala" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Mwena L/Site" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/47.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/206.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/206.0" .
+
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Thu Jul 11 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/09:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Jul 11 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/14:33 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bundibugyo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bubukwanga" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/2605.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/16408.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/16408.0" .
+
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Tue Jul 16 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/19:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Wed Jul 17 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/08:11 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masaka" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/St Joseph Villa M" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/0.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/120.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Prolonged dry spell" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Jul 20 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/14:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Jul 26 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/12:18 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/144.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kotido" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kamion, Kaabong" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/0.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/21100.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Jul 20 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/18:40 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Jul 21 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/15:25 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Luwero" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Butuntula " ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/68.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/400.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/400.0" .
+
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Landslide" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Wed Jul 31 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/15:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Aug 01 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/11:50 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kapchorwa" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kaserem" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/7.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/23.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/61> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Mon Aug 05 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/11:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Wed Aug 07 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:44 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Pader" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Tyer Parish" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/431.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/62> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Wed Aug 07 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/18:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Aug 08 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/15:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Elegu Village" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/2110.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/7532.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/7532.0" .
+
+<https://w3id.org/gicentre/onto/redcross/63> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Aug 10 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/15:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Aug 11 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/11:12 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bubulo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bushiyi" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/1845.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/9468.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/9468.0" .
+
+<https://w3id.org/gicentre/onto/redcross/64> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Aug 11 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/21:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Aug 13 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/14:17 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mityana" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kajumiro" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/27.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/149.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/149.0" .
+
+<https://w3id.org/gicentre/onto/redcross/65> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Tue Aug 13 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/24:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Wed Aug 14 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/11:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kalangala" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kaazi Bugaba" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/67.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/292.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/292.0" .
+
+<https://w3id.org/gicentre/onto/redcross/66> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Tue Aug 13 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/13:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Wed Aug 14 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/12:49 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Rakai" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Mutukula" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/76.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/381.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/350.0" .
+
+<https://w3id.org/gicentre/onto/redcross/67> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Aug 18 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/15:37 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Aug 19 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/13:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Moyo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Obongi" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/97.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/679.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/439.0" .
+
+<https://w3id.org/gicentre/onto/redcross/68> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Aug 17 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/11:12 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Aug 20 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Rakai" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Mutukula" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1244.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1244.0" .
+
+<https://w3id.org/gicentre/onto/redcross/69> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Sep 01 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/17:00 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Sep 02 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/15:49 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bushiende" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/113.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/836.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/70> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Sep 01 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/20:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Sep 02 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/15:03 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masaka" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Mbirizi" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/175.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/897.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/897.0" .
+
+<https://w3id.org/gicentre/onto/redcross/71> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Mon Sep 02 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/13:05 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Sep 05 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/14:04 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/96.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kalangala" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Lujjabwa" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/367.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1121.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1121.0" .
+
+<https://w3id.org/gicentre/onto/redcross/72> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Tue Sep 03 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/12:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Sep 06 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/18:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/96.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bundibugyo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bweramule " ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/210.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/498.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/498.0" .
+
+<https://w3id.org/gicentre/onto/redcross/73> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Sep 08 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/11:09 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Sep 10 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/13:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kisoro" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Nyakabande" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1040.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1040.0" .
+
+<https://w3id.org/gicentre/onto/redcross/74> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Mon Sep 09 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/16:05 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Sep 10 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/14:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Luwero" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Mazzi Parish" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/112.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/750.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/357.0" .
+
+<https://w3id.org/gicentre/onto/redcross/75> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Tue Sep 10 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/08:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Sep 12 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/08:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Nebbi" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Wadilai s/c" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/131.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/959.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/76> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Sep 13 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/14:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Sep 14 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Katakwi" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Amuria" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/31.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/218.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/77> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Mon Sep 16 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/08:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Sep 16 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/11:30hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masaka" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Lwengo" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/123.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/647.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/350.0" .
+
+<https://w3id.org/gicentre/onto/redcross/78> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Tue Sep 17 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/08:06 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Sep 17 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Soroti" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bugondo parish" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/50.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/550.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/79> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Thu Sep 19 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/13:45 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Sep 19 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/15:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bugamba" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/120.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/868.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/80> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Sep 20 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/11:12 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Sep 23 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Dec 31 10:05:00 GMT-08:00 1899" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Rakai" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Mutukula" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/1387.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/4898.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1244.0" .
+
+<https://w3id.org/gicentre/onto/redcross/81> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Sep 27 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/ 17:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Sep 28 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masaka" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kasaka parish" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/476.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/2254.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/82> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Sep 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/13:30hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sun Sep 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/14:15hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Wakiso" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kyanuuna parish" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/69.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/301.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/301.0" .
+
+<https://w3id.org/gicentre/onto/redcross/83> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Sep 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/17:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Sep 30 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/9:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masaka" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bulongo parish" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/132.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/668.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/84> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Tue Oct 08 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/12:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Oct 10 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/13:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mityana" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Maduddu" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/280.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/2841.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/488.0" .
+
+<https://w3id.org/gicentre/onto/redcross/85> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Oct 13 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/10:13 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Wed Oct 16 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/17:18 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/96.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Hoima" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kyangwali" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/500.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/2190.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/2190.0" .
+
+<https://w3id.org/gicentre/onto/redcross/86> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Oct 11 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/22:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Oct 12 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/8:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masaka" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Ddongwa parish" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/143.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/2746.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/87> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Oct 11 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/22:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Oct 12 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/9:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masaka" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bukunda parish" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/123.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1285.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/88> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Oct 11 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/11:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Oct 14 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/11:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Luwero" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kayanja parish" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/78.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/468.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/468.0" .
+
+<https://w3id.org/gicentre/onto/redcross/89> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sun Oct 13 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/14:12 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Oct 14 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/13:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Iganga" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Waibuga" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/247.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1482.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/754.0" .
+
+<https://w3id.org/gicentre/onto/redcross/90> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Oct 18 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/09:14 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Oct 22 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/16:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/96.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bundibugyo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bubukwanga" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/656.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/3293.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/3293.0" .
+
+<https://w3id.org/gicentre/onto/redcross/91> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Floods" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Wed Oct 23 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/18:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Thu Oct 24 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/09:25 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Soroti" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kateta" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/1347.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/8837.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/92> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Internal conflict" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Tue Oct 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/15:45 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Wed Oct 30 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/08:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kitgum" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Obem village" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/120.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/550.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/550.0" .
+
+<https://w3id.org/gicentre/onto/redcross/93> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Nov 01 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/09:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Wed Nov 06 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/18:21 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/144.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Arua" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Koboko" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/10000.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/94> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Internal conflict" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Tue Nov 12 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/9:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Nov 12 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala East" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kasokoso" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/26.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/26.0" .
+
+<https://w3id.org/gicentre/onto/redcross/95> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Nov 22 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/11:22 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Nov 22 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/16:28hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Iganga" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bumba Island" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/237.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1422.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/96> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Storm" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Wed Nov 27 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/16:45 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Nov 29 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bundibugyo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Karugutu" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/49.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/97> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Building collapse" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Dec 20 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/10:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Dec 20 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mukono" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Mukono town" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/13.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/13.0" .
+
+<https://w3id.org/gicentre/onto/redcross/98> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Road accident" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Dec 20 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/11:20 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Dec 20 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/11:40 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala West" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Mengo" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/2.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/2.0" .
+
+<https://w3id.org/gicentre/onto/redcross/99> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Road accident" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Dec 21 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/13:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Dec 21 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/13:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala West" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kabusu" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/3.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/3.0" .
+
+<https://w3id.org/gicentre/onto/redcross/100> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Road accident" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Dec 21 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/19:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Sat Dec 21 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/19:50 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala West" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kibuye mosque" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/1.0" .
+
+<https://w3id.org/gicentre/onto/redcross/101> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Road accident" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Tue Dec 24 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/16:30hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Tue Dec 24 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/17:30 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/24.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mityana" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Mityana road" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/N/A" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/4.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/4.0" .
+
+<https://w3id.org/gicentre/onto/redcross/102> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Wed Dec 25 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/12:29 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Fri Dec 27 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/15:40 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/72.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bundibugyo" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bundibugyo" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/20000.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/103> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Fire" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Fri Dec 27 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/09:15 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Dec 30 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/12:10 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/96.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kalangala" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kibanga" ;
+	<https://w3id.org/gicentre/onto/redcross/HHaffected> "https://w3id.org/gicentre/onto/redcross/52.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/263.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/263.0" .
+
+<https://w3id.org/gicentre/onto/redcross/104> <https://w3id.org/gicentre/onto/redcross/TypeofDisaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" ;
+	<https://w3id.org/gicentre/onto/redcross/DateReporetd> "https://w3id.org/gicentre/onto/redcross/Sat Dec 21 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeReported> "https://w3id.org/gicentre/onto/redcross/17:18 hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/DateOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/Mon Dec 23 00:00:00 GMT-08:00 2013" ;
+	<https://w3id.org/gicentre/onto/redcross/TimeOfFirstResponse> "https://w3id.org/gicentre/onto/redcross/10:40hrs" ;
+	<https://w3id.org/gicentre/onto/redcross/ResponseTime> "https://w3id.org/gicentre/onto/redcross/48.0" ;
+	<https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" ;
+	<https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Adjumani" ;
+	<https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Dzaipi camp" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/1053.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/0.0" .
+
+<https://w3id.org/gicentre/onto/redcross/105> <https://w3id.org/gicentre/onto/redcross/PopulationAffected> "https://w3id.org/gicentre/onto/redcross/215514.0" ;
+	<https://w3id.org/gicentre/onto/redcross/PopulationReachedByURCS> "https://w3id.org/gicentre/onto/redcross/97371.0" .

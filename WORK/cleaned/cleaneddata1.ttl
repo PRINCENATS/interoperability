@@ -1,0 +1,98 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ns1: <https://w3id.org/gicentre/onto/desiventar/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+ns1:0 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ADJUMANI" ;
+	ns1:Date "https://w3id.org/gicentre/onto/desiventar/2014-03-20" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	<https://w3id.org/gicentre/onto/desiventar/Description+of+cause> "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Injured "https://w3id.org/gicentre/onto/desiventar/6" ;
+	<https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+
+ns1:1 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AGAGO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/WOL" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/OGOLE" ;
+	ns1:Date "https://w3id.org/gicentre/onto/desiventar/2013-10-01" .
+
+ns1:2 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AGAGO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/PAIMOL" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/PACABOL" ;
+	ns1:Date "https://w3id.org/gicentre/onto/desiventar/2013-10-04" .
+
+ns1:3 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Date "https://w3id.org/gicentre/onto/desiventar/2013-05-01" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Detailed information not provided per sub-counies" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Injured "https://w3id.org/gicentre/onto/desiventar/0" ;
+	<https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+
+ns1:4 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Date "https://w3id.org/gicentre/onto/desiventar/2016-11-14" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Material needed for construction" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Injured "https://w3id.org/gicentre/onto/desiventar/0" ;
+	<https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+
+ns1:5 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/ward b" ;
+	ns1:Date "https://w3id.org/gicentre/onto/desiventar/2016-11-14" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/food and non food materials needed esp. construstion materials" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Injured "https://w3id.org/gicentre/onto/desiventar/0" ;
+	<https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+
+ns1:6 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/Kangaror" ;
+	ns1:Date "https://w3id.org/gicentre/onto/desiventar/2016-11-14" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/construction materials needed." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Injured "https://w3id.org/gicentre/onto/desiventar/0" ;
+	<https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+
+ns1:7 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/kamkon" ;
+	ns1:Date "https://w3id.org/gicentre/onto/desiventar/2016-11-14" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Food and non food items but specifically construction materials." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Injured "https://w3id.org/gicentre/onto/desiventar/0" ;
+	<https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+
+ns1:8 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/senior quaters" ;
+	ns1:Date "https://w3id.org/gicentre/onto/desiventar/2016-11-14" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/construction materials needed,food and other non food materials." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Injured "https://w3id.org/gicentre/onto/desiventar/0" ;
+	<https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .
+
+ns1:9 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Date "https://w3id.org/gicentre/onto/desiventar/2018-06-20" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/DISTRICT" ;
+	ns1:Injured "https://w3id.org/gicentre/onto/desiventar/0" ;
+	<https://w3id.org/gicentre/onto/desiventar/Losses+in+USD> "https://w3id.org/gicentre/onto/desiventar/0" .

@@ -1,0 +1,11 @@
+Serial,Event,Code District,District,Code Subcounty,Subcounty,Code Parish,Parish,Location,Date (YMD),Comments,Cause,Description of Cause,Source,Duration (d),Magnitude,GLIDEnumber,Other sectors,DataCards,Deaths,Injured,Missing,Houses Destroyed,Houses Damaged,Directly affected,Indirectly Affected,Relocated,Evacuated,Losses $USD,Losses $Local,Education centers,Hospitals,Damages in crops Ha.
+6901,EPIDEMIC,301,ADJUMANI,,,,,,2014-03-20,,Other cause,Meningitis,New Vision,0,,,,1,1,6,0,0,0,0,0,0,0,0,0,0,0,0
+7108,FLOOD,329,AGAGO,329621,WOL,3296210658,OGOLE,,2013-10-01,,,,,,,,,,,,,,,,,,,,,,,
+7104,FLOOD,329,AGAGO,329627,PAIMOL,3296270656,PACABOL,,2013-10-04,,,,,,,,,,,,,,,,,,,,,,,
+7117,FLOOD,311,AMUDAT,,,,,,2013-05-01,Detailed information not provided per sub-counies,Heavy Rain,,OPM,0,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7073,STORM,311,AMUDAT,311609,AMUDAT,3116093089,AMUDAT,,2016-11-14,Material needed for construction,Heavy Rain,,,0,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7072,STORM,311,AMUDAT,311609,AMUDAT,3116093089,AMUDAT,ward b,2016-11-14,food and non food materials needed esp. construstion materials,Heavy Rain,,,0,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7067,STORM,311,AMUDAT,311609,AMUDAT,3116093089,AMUDAT,Kangaror,2016-11-14,construction materials needed.,Heavy Rain,,,0,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7065,STORM,311,AMUDAT,311609,AMUDAT,3116093089,AMUDAT,kamkon,2016-11-14,Food and non food items but specifically construction materials.,Heavy Rain,,,0,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7054,STORM,311,AMUDAT,311609,AMUDAT,3116093089,AMUDAT,senior quaters,2016-11-14,"construction materials needed,food and other non food materials.",Heavy Rain,,,0,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6907,FLOOD,311,AMUDAT,,,,,,2018-06-20,,,,DISTRICT,0,,,,1,0,0,0,0,0,0,890,0,51,0,0,0,0,0

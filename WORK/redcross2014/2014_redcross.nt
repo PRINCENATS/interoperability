@@ -1,0 +1,785 @@
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/13.0" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/14:45 hrs" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/13/January" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/17.0" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/08:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/17/January" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/72.0" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Moroto" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Napak" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/6.0" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/10:30 hrs" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/6/January" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/14.0" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:34 hrs" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/14/January" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/216.0" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Adjumani" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Dzaipi" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/6.0" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/15:43 hrs" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/6/January" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/14.0" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/18:12 hrs" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/14/January" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/216.0" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Arua" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Koboko" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross//" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross//" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/`" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/23.0" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/15:20 hrs" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/23/January" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/24/January" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Iganga" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bukana" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/20.0" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/11:44 hrs" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/20/January" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/21.0" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/15:46hrs" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/21/January" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/48.0" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Luwero" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kamira" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/2.0" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/9:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/2/February" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/3.0" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/16:20 hrs" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/3/February" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/48.0" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kasese" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Maliba" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/18.0" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/Sun Dec 31 14:13:00 GMT-08:00 1899" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/18/February" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/21.0" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:13 hrs" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/21/February" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/48.0" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala west" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kisenyi" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/23.0" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/19:20 hrs" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/23/February" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:20 hrs" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/24/February" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Luwero" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Town " .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/Sun Dec 31 13:20:00 GMT-08:00 1899" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/24/February" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/25.0" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sun Dec 31 10:14:00 GMT-08:00 1899" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/25/February" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Iganga" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Nakalama" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/8.0" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/9:02 hrs" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/8/March" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/9.0" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:40 hrs" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/9/March" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Moroto" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Napak" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/6.0" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/8:44 hrs" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/6/March" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/6.0" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:13 hrs" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/6/March" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Luwero" .
+<https://w3id.org/gicentre/onto/redcross/11> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Befell" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/6.0" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/20:43 hrs" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/6/March" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/7.0" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/11:20 hrs" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/7/March" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mityana" .
+<https://w3id.org/gicentre/onto/redcross/12> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Mubende" .
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/6.0" .
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/11:34 hrs" .
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/6/March" .
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/10.0" .
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/11:51 hrs" .
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/10/March" .
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/120.0" .
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Jinja" .
+<https://w3id.org/gicentre/onto/redcross/13> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kagoma" .
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/13.0" .
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/10:9 hrs" .
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/13/March" .
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/15.0" .
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/15:03 hrs" .
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/15/March" .
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/72.0" .
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/14> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Butemba" .
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/15.0" .
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/23:21 hrs" .
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/15/March" .
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/16.0" .
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/11:13hrs" .
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/16/March" .
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mityana" .
+<https://w3id.org/gicentre/onto/redcross/15> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kalwana" .
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Boat accident" .
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/23.0" .
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/8:13hrs" .
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/23/March" .
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/11:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/24/March" .
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/48.0" .
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" .
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bundibugyo" .
+<https://w3id.org/gicentre/onto/redcross/16> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Ntoroko" .
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/29.0" .
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/10:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/29/March" .
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/31.0" .
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/11:34 hrs" .
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/31/March" .
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/72.0" .
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kamuli" .
+<https://w3id.org/gicentre/onto/redcross/17> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Buzaya" .
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/29.0" .
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/11:12 hrs" .
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/29/March" .
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/30.0" .
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:14 hrs" .
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/30/March" .
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Jinja" .
+<https://w3id.org/gicentre/onto/redcross/18> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Butagaya" .
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/1.0" .
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/April" .
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/08:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/1/April" .
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/2.0" .
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/April" .
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sun Dec 31 14:34:00 GMT-08:00 1899" .
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/2/April" .
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/48.0" .
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Tororo" .
+<https://w3id.org/gicentre/onto/redcross/19> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Butaleja" .
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/3.0" .
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/April" .
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/10:05 hrs" .
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/3/April" .
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/5.0" .
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/April" .
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/11:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/5/April" .
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/72.0" .
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kapchorwa" .
+<https://w3id.org/gicentre/onto/redcross/20> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Ngenge" .
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/10.0" .
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/April" .
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/08:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/10/April" .
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/10.0" .
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/April" .
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/13:58 hrs" .
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/10/April" .
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mukono" .
+<https://w3id.org/gicentre/onto/redcross/21> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Nama s/c" .
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/23.0" .
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/April" .
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/00:01 hrs" .
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/23/April" .
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/23.0" .
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/April" .
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/09:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/23/April" .
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" .
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Gulu" .
+<https://w3id.org/gicentre/onto/redcross/22> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Patiko s/c" .
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Cholera" .
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/27.0" .
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/April" .
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/08:00 hrs" .
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/27/April" .
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/27.0" .
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/April" .
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/18:01 hrs" .
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/27/April" .
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Moyo" .
+<https://w3id.org/gicentre/onto/redcross/23> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Moyo" .
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/1.0" .
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/May" .
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/22:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/1/May" .
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/2.0" .
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/May" .
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/2/May" .
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Arua" .
+<https://w3id.org/gicentre/onto/redcross/24> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Yumbe/Kei" .
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/3.0" .
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/May" .
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/10:00 hrs" .
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/3/May" .
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/5.0" .
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/May" .
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/8:00 hrs" .
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/5/May" .
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/48.0" .
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" .
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kasese" .
+<https://w3id.org/gicentre/onto/redcross/25> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Nyamwamba" .
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/6.0" .
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/May" .
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/18:02 hrs" .
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/6/May" .
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/6.0" .
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/May" .
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/18:40 hrs" .
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/6/May" .
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala west" .
+<https://w3id.org/gicentre/onto/redcross/26> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kisenyi" .
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/20.0" .
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/May" .
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/14:00 hrs" .
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/20/May" .
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/20.0" .
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/May" .
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/20:20 hrs" .
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/20/May" .
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" .
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kasese" .
+<https://w3id.org/gicentre/onto/redcross/27> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bwera ss" .
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/26.0" .
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/May" .
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/08:30 hrs" .
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/26/May" .
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/26.0" .
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/May" .
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/26/May" .
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Iganga" .
+<https://w3id.org/gicentre/onto/redcross/28> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Nawangisa" .
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Cholera" .
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/29.0" .
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/May" .
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/09:12 hrs" .
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/29/May" .
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/29.0" .
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/May" .
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/12:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/29/May" .
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Iganga" .
+<https://w3id.org/gicentre/onto/redcross/29> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Namayingo" .
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/1.0" .
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/June" .
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/10:16 hrs" .
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/1/June" .
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/1.0" .
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/June" .
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/13:08 hrs" .
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/1/June" .
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masaka" .
+<https://w3id.org/gicentre/onto/redcross/30> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bukakata" .
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Landslide" .
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/2.0" .
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/June" .
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/18:09 hrs" .
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/2/June" .
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/4.0" .
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/June" .
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:133 hrs" .
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/4/June" .
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/48.0" .
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bubulo" .
+<https://w3id.org/gicentre/onto/redcross/31> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bududa" .
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/9.0" .
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/June" .
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/06:45 hrs" .
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/9/June" .
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/9.0" .
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/June" .
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/12:42 hrs" .
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/9/June" .
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala west" .
+<https://w3id.org/gicentre/onto/redcross/32> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kabowa" .
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/9.0" .
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/June" .
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/10:05 hrs" .
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/9/June" .
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/10.0" .
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/June" .
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/9:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/10/June" .
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masaka" .
+<https://w3id.org/gicentre/onto/redcross/33> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kyesiga" .
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/27.0" .
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/June" .
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/05:30 hrs" .
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/27/June" .
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/27.0" .
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/June" .
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/6:45 hrs" .
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/27/June" .
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kampala west" .
+<https://w3id.org/gicentre/onto/redcross/34> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Busega mkt" .
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Civil conflict" .
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/5.0" .
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/July" .
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/19:05 hrs" .
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/5/July" .
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/6.0" .
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/July" .
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/9:09 hrs" .
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/6/July" .
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" .
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kasese" .
+<https://w3id.org/gicentre/onto/redcross/35> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kitswamba s/c" .
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Civil conflict" .
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/6.0" .
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/July" .
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/10:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/6/July" .
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/6.0" .
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/July" .
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/14:34 hrs" .
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/6/July" .
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" .
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bundibugyo" .
+<https://w3id.org/gicentre/onto/redcross/36> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bundibugyo town" .
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/15.0" .
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/July" .
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/20:56 hrs" .
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/15/July" .
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/16.0" .
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/July" .
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/08:02 hrs" .
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/16/July" .
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/37> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Comprehensive" .
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Landslide" .
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/23.0" .
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/July" .
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/14:00hrs" .
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/23/July" .
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/July" .
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/08:00 hrs" .
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/24/July" .
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Sironko" .
+<https://w3id.org/gicentre/onto/redcross/38> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Zesui" .
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/23.0" .
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/August" .
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/06:45 hrs  " .
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/23/August" .
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/August" .
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/8:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/24/August" .
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masaka" .
+<https://w3id.org/gicentre/onto/redcross/39> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kisojo parish" .
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/August" .
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/23:34 hrs" .
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/24/August" .
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/25.0" .
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/August" .
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/09:23 hrs" .
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/25/August" .
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Masaka" .
+<https://w3id.org/gicentre/onto/redcross/40> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kalungu s/c" .
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/1.0" .
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/14:13 hrs" .
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/1/Sept" .
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/2.0" .
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/08:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/2/Sept" .
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Rakai" .
+<https://w3id.org/gicentre/onto/redcross/41> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kagamba s/c" .
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/3.0" .
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/04:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/3/Sept" .
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/4.0" .
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/08:06 hrs" .
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/4/Sept" .
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kalangala" .
+<https://w3id.org/gicentre/onto/redcross/42> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bufumira s/c" .
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Eviction" .
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/3.0" .
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/16:12 hrs " .
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/3/Sept" .
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/4.0" .
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/08:43 hrs" .
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/4/Sept" .
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/43> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bugambe s/c" .
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/4.0" .
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/08:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/4/Sept" .
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/5.0" .
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/11:04 hrs" .
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/5/Sept" .
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/48.0" .
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bukedea" .
+<https://w3id.org/gicentre/onto/redcross/44> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Tajar" .
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/4.0" .
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/06:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/4/Sept" .
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/5.0" .
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/16:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/5/Sept" .
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/48.0" .
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bukedea" .
+<https://w3id.org/gicentre/onto/redcross/45> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Koidike" .
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/4.0" .
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/08:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/4/Sept" .
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/5.0" .
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/08:13 hrs" .
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/5/Sept" .
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bukedea" .
+<https://w3id.org/gicentre/onto/redcross/46> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Akakaat" .
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Water logging" .
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/8.0" .
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/11:21 hrs" .
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/8/Sept" .
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/9.0" .
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/09:03 hrs" .
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/9/Sept" .
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" .
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Lira" .
+<https://w3id.org/gicentre/onto/redcross/47> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Otuke" .
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Water logging" .
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/8.0" .
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/13:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/8/Sept" .
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/9.0" .
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:20 hrs" .
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/9/Sept" .
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" .
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Lira" .
+<https://w3id.org/gicentre/onto/redcross/48> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Alebtong" .
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/6.0" .
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/23:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/6/Sept" .
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/8.0" .
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/8:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/8/Sept" .
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Tororo" .
+<https://w3id.org/gicentre/onto/redcross/49> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Butaleja" .
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/8.0" .
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/08:14 hrs" .
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/8/Sept" .
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/9.0" .
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/14:05 hrs" .
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/9/Sept" .
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/48.0" .
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Gulu" .
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Gulu" .
+<https://w3id.org/gicentre/onto/redcross/50> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Library" .
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/9.0" .
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/10:29 hrs" .
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/9/Sept" .
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/10.0" .
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/10/Sept" .
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/51> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Wanale/Busano" .
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/9.0" .
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/09:35 hrs" .
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/9/Sept" .
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/10.0" .
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/12:34 hrs" .
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/10/Sept" .
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/48.0" .
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kotido" .
+<https://w3id.org/gicentre/onto/redcross/52> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Abim/Pupu" .
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/13.0" .
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/18:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/13/Sept" .
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/14.0" .
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:15hrs" .
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/14/Sept" .
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Luwero" .
+<https://w3id.org/gicentre/onto/redcross/53> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kamira s/c" .
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Tribal conflict" .
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/15.0" .
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/10:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/15/Sept" .
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/16.0" .
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/17:41 hrs" .
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/16/Sept" .
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/48.0" .
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Moyo" .
+<https://w3id.org/gicentre/onto/redcross/54> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Wano village" .
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Landslide" .
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/18.0" .
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/14:03 hrs" .
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/18/Sept" .
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/19.0" .
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/12:27 hrs" .
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/19/Sept" .
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Sironko" .
+<https://w3id.org/gicentre/onto/redcross/55> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bulambuli" .
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/29.0" .
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/08:12 hrs" .
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/29/Sept" .
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/1.0" .
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/October" .
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/10:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/1/October" .
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/48.0" .
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Central" .
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Kalangala" .
+<https://w3id.org/gicentre/onto/redcross/56> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kitobo" .
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/29.0" .
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/Sept" .
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/12:47 hrs" .
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/29/Sept" .
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/2.0" .
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/October" .
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/11:05 hrs" .
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/2/October" .
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/72.0" .
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/57> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kisabagwa" .
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/21.0" .
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/October" .
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/01:13 hrs" .
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/21/October" .
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/22.0" .
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/October" .
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/9:18 hrs" .
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/22/October" .
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbale" .
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Sironko" .
+<https://w3id.org/gicentre/onto/redcross/58> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Bulambuli" .
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/1.0" .
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/November" .
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/18:24 hrs" .
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/1/November" .
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/2.0" .
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/November" .
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/15:13 hrs" .
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/2/November" .
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Mbarara" .
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Bundibugyo" .
+<https://w3id.org/gicentre/onto/redcross/59> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Ntoroko" .
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/Land clashes" .
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/Day_Reported> "https://w3id.org/gicentre/onto/redcross/3.0" .
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/Month_Reported> "https://w3id.org/gicentre/onto/redcross/December" .
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/Time_Reported> "https://w3id.org/gicentre/onto/redcross/15:25 hrs" .
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/Date_Reported> "https://w3id.org/gicentre/onto/redcross/3/December" .
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/Date_of_first_Response> "https://w3id.org/gicentre/onto/redcross/4.0" .
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/Month_of_first_response> "https://w3id.org/gicentre/onto/redcross/December" .
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/Time_of_first_response> "https://w3id.org/gicentre/onto/redcross/09:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/Date_of_first_response> "https://w3id.org/gicentre/onto/redcross/4/December" .
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/Response_time> "https://w3id.org/gicentre/onto/redcross/24.0" .
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/Region> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/Branch> "https://w3id.org/gicentre/onto/redcross/Hoima" .
+<https://w3id.org/gicentre/onto/redcross/60> <https://w3id.org/gicentre/onto/redcross/Location> "https://w3id.org/gicentre/onto/redcross/Kabwoya s/c" .
+<https://w3id.org/gicentre/onto/redcross/61> <https://w3id.org/gicentre/onto/redcross/Type_Of_Disaster> "https://w3id.org/gicentre/onto/redcross/^^^^^PLEASE CLICK ON THE LINE ABOVE TO INSERT MORE ROWS^^^^^" .

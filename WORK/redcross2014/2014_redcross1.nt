@@ -1,0 +1,93 @@
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Type+of+disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Day+reported> "https://w3id.org/gicentre/onto/redcross/13" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Month+reported> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Time+reported> "https://w3id.org/gicentre/onto/redcross/14:45 hrs" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Date+reported> "https://w3id.org/gicentre/onto/redcross/13/January" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Day+of+first+response> "https://w3id.org/gicentre/onto/redcross/17" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Month+of+first+response> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Time+of+first+response> "https://w3id.org/gicentre/onto/redcross/08:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/0> <https://w3id.org/gicentre/onto/redcross/Date+of+first+response> "https://w3id.org/gicentre/onto/redcross/17/January" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Type+of+disaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Day+reported> "https://w3id.org/gicentre/onto/redcross/6" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Month+reported> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Time+reported> "https://w3id.org/gicentre/onto/redcross/10:30 hrs" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Date+reported> "https://w3id.org/gicentre/onto/redcross/6/January" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Day+of+first+response> "https://w3id.org/gicentre/onto/redcross/14" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Month+of+first+response> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Time+of+first+response> "https://w3id.org/gicentre/onto/redcross/10:34 hrs" .
+<https://w3id.org/gicentre/onto/redcross/1> <https://w3id.org/gicentre/onto/redcross/Date+of+first+response> "https://w3id.org/gicentre/onto/redcross/14/January" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Type+of+disaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Day+reported> "https://w3id.org/gicentre/onto/redcross/6" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Month+reported> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Time+reported> "https://w3id.org/gicentre/onto/redcross/15:43 hrs" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Date+reported> "https://w3id.org/gicentre/onto/redcross/6/January" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Day+of+first+response> "https://w3id.org/gicentre/onto/redcross/14" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Month+of+first+response> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Time+of+first+response> "https://w3id.org/gicentre/onto/redcross/18:12 hrs" .
+<https://w3id.org/gicentre/onto/redcross/2> <https://w3id.org/gicentre/onto/redcross/Date+of+first+response> "https://w3id.org/gicentre/onto/redcross/14/January" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/Type+of+disaster> "https://w3id.org/gicentre/onto/redcross/Refugee influx" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/Date+reported> "https://w3id.org/gicentre/onto/redcross//" .
+<https://w3id.org/gicentre/onto/redcross/3> <https://w3id.org/gicentre/onto/redcross/Date+of+first+response> "https://w3id.org/gicentre/onto/redcross//" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Type+of+disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Day+reported> "https://w3id.org/gicentre/onto/redcross/23" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Month+reported> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Time+reported> "https://w3id.org/gicentre/onto/redcross/15:20 hrs" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Date+reported> "https://w3id.org/gicentre/onto/redcross/23/January" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Day+of+first+response> "https://w3id.org/gicentre/onto/redcross/24" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Month+of+first+response> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Time+of+first+response> "https://w3id.org/gicentre/onto/redcross/10:15 hrs" .
+<https://w3id.org/gicentre/onto/redcross/4> <https://w3id.org/gicentre/onto/redcross/Date+of+first+response> "https://w3id.org/gicentre/onto/redcross/24/January" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Type+of+disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Day+reported> "https://w3id.org/gicentre/onto/redcross/20" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Month+reported> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Time+reported> "https://w3id.org/gicentre/onto/redcross/11:44 hrs" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Date+reported> "https://w3id.org/gicentre/onto/redcross/20/January" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Day+of+first+response> "https://w3id.org/gicentre/onto/redcross/21" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Month+of+first+response> "https://w3id.org/gicentre/onto/redcross/January" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Time+of+first+response> "https://w3id.org/gicentre/onto/redcross/15:46hrs" .
+<https://w3id.org/gicentre/onto/redcross/5> <https://w3id.org/gicentre/onto/redcross/Date+of+first+response> "https://w3id.org/gicentre/onto/redcross/21/January" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Type+of+disaster> "https://w3id.org/gicentre/onto/redcross/Floods" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Day+reported> "https://w3id.org/gicentre/onto/redcross/2" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Month+reported> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Time+reported> "https://w3id.org/gicentre/onto/redcross/9:10 hrs" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Date+reported> "https://w3id.org/gicentre/onto/redcross/2/February" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Day+of+first+response> "https://w3id.org/gicentre/onto/redcross/3" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Month+of+first+response> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Time+of+first+response> "https://w3id.org/gicentre/onto/redcross/16:20 hrs" .
+<https://w3id.org/gicentre/onto/redcross/6> <https://w3id.org/gicentre/onto/redcross/Date+of+first+response> "https://w3id.org/gicentre/onto/redcross/3/February" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Type+of+disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Day+reported> "https://w3id.org/gicentre/onto/redcross/18" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Month+reported> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Time+reported> "https://w3id.org/gicentre/onto/redcross/14:13" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Date+reported> "https://w3id.org/gicentre/onto/redcross/18/February" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Day+of+first+response> "https://w3id.org/gicentre/onto/redcross/21" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Month+of+first+response> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Time+of+first+response> "https://w3id.org/gicentre/onto/redcross/10:13 hrs" .
+<https://w3id.org/gicentre/onto/redcross/7> <https://w3id.org/gicentre/onto/redcross/Date+of+first+response> "https://w3id.org/gicentre/onto/redcross/21/February" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Type+of+disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Day+reported> "https://w3id.org/gicentre/onto/redcross/23" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Month+reported> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Time+reported> "https://w3id.org/gicentre/onto/redcross/19:20 hrs" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Date+reported> "https://w3id.org/gicentre/onto/redcross/23/February" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Day+of+first+response> "https://w3id.org/gicentre/onto/redcross/24" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Month+of+first+response> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Time+of+first+response> "https://w3id.org/gicentre/onto/redcross/10:20 hrs" .
+<https://w3id.org/gicentre/onto/redcross/8> <https://w3id.org/gicentre/onto/redcross/Date+of+first+response> "https://w3id.org/gicentre/onto/redcross/24/February" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Type+of+disaster> "https://w3id.org/gicentre/onto/redcross/Storm" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Day+reported> "https://w3id.org/gicentre/onto/redcross/24" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Month+reported> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Time+reported> "https://w3id.org/gicentre/onto/redcross/13:20" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Date+reported> "https://w3id.org/gicentre/onto/redcross/24/February" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Day+of+first+response> "https://w3id.org/gicentre/onto/redcross/25" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Month+of+first+response> "https://w3id.org/gicentre/onto/redcross/February" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Time+of+first+response> "https://w3id.org/gicentre/onto/redcross/10:14" .
+<https://w3id.org/gicentre/onto/redcross/9> <https://w3id.org/gicentre/onto/redcross/Date+of+first+response> "https://w3id.org/gicentre/onto/redcross/25/February" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Type+of+disaster> "https://w3id.org/gicentre/onto/redcross/Fire" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Day+reported> "https://w3id.org/gicentre/onto/redcross/8" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Month+reported> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Time+reported> "https://w3id.org/gicentre/onto/redcross/9:02 hrs" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Date+reported> "https://w3id.org/gicentre/onto/redcross/8/March" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Day+of+first+response> "https://w3id.org/gicentre/onto/redcross/9" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Month+of+first+response> "https://w3id.org/gicentre/onto/redcross/March" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Time+of+first+response> "https://w3id.org/gicentre/onto/redcross/10:40 hrs" .
+<https://w3id.org/gicentre/onto/redcross/10> <https://w3id.org/gicentre/onto/redcross/Date+of+first+response> "https://w3id.org/gicentre/onto/redcross/9/March" .

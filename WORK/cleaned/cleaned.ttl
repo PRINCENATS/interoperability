@@ -1,0 +1,1864 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ns1: <https://w3id.org/gicentre/onto/desiventar/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+ns1:0 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ADJUMANI" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:1 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AGAGO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/WOL" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/OGOLE" .
+
+ns1:2 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AGAGO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/PAIMOL" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/PACABOL" .
+
+ns1:3 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Detailed information not provided per sub-counies" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:4 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Material needed for construction" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:5 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/ward b" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/food and non food materials needed esp. construstion materials" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:6 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/Kangaror" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/construction materials needed." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:7 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/kamkon" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Food and non food items but specifically construction materials." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:8 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/senior quaters" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/construction materials needed,food and other non food materials." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:9 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMUDAT" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/DISTRICT" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:10 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMURIA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Most affected crops due to water logging were sorghum, cassava, millet, and ground nuts" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/water logging" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:11 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMURIA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/ASAMUK" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/AJAKI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/This heavy storm destroyed Aojakito p/s" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Ebulu Julius Head Teacher" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:12 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMURIA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/ABARILELA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Over 500 hundred people were affected but later it was contained " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Typhoid" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Amuria DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:13 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMURIA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/maize, cassava and groundnuts were fully destroyed" .
+
+ns1:14 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/AMURU" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/ATIAK" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Unyama stream burst its banks causing floods that displaced over 6000 people." .
+
+ns1:15 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ANIMAL ATTACK" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/APAC" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Female Hippo attacked two fishermen on the canoe on which they were sailing causing one to die." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Hippo Attack " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:16 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROWNING" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/APAC" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/10 people drowned in lake victoria when the canoe in the were sailing capsied after after it was hit by a storm and heavy rain . " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Strong Wind" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/new Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:17 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ARUA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/MANIBE" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/OMBOKORO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The storm destroyed crops, damages buildings and killed livestock." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Rain and Hailstorms" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:18 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ARUA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/A 20 minute storm ravage Arua Town ." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Torrential Rains " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision  " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:19 ns1:Event "https://w3id.org/gicentre/onto/desiventar/RAINSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ARUA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The heavy rainstorm destroyed 7 buildings, food and cash crops" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Rainstorm" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rainstorm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NEW VISION" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:20 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ARUA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Cholera" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:21 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ARUA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The heavy storm ravaged parts of Arua Municipality destroying liosks and taxi park." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/heavy storm  " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:22 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ARUA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:23 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUDUDA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Victims were killed while celebrating a harvest." ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Report by NEMA on landslides in Bududa District, their causes and consequences, march 2010." ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:24 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LANDSLIDE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUDUDA" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Article in the New Vision dated 30/08/2011" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:25 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LANDSLIDE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUDUDA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/BUMAYOKA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The landslide occurred where there were no human settlements but people nearby left their homes for safer places fearing another might soon happen and affect them.  " ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/1.0" .
+
+ns1:26 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LANDSLIDE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUDUDA" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Article in the New Vision dated 30/08/2011" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:27 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUDUDA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Victims were killed while celebrating a harvest." ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Report by NEMA on landslides in Bududa District, their causes and consequences, march 2010." ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:28 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LANDSLIDE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUDUDA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/four parishes were affected by the landslides and halstones." .
+
+ns1:29 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUIKWE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Shortcircuit" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:30 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUIKWE" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:31 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUKEDEA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KOLIR" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/Tajar" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Crops, houses and roads damaged" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:32 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUKEDEA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/roads and bridges were fully destroyed" .
+
+ns1:33 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LIGHTNING" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUKOMANSIMBI" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Storm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision  " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:34 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BULAMBULI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/SISIYI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The feeder roads were detroyed by the floods." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/daily down pour  " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:35 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BULAMBULI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/latrines were partially damaged" .
+
+ns1:36 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUNDIBUGYO" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Trycomycosis in Coffee" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:37 ns1:Event "https://w3id.org/gicentre/onto/desiventar/WINDSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUSHENYI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KYAMUHUNGA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/KYAMUHUNGA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The whole parish of Kyamunga is affected with the storm" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Windstorm" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:38 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUSIA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Fire burnt two houses in Busia Police Barracks." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Unknown" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:39 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUSIA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/A primary and nusery school were affected by floods." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:40 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUTALEJA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Down Pour " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:41 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUTALEJA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/mostly affected when R.Manafwa breaks its banks" .
+
+ns1:42 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/BUVUMA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Storm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:43 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/GULU" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/affected villages Pongdwongo and Obiya highland." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Hail Storm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:44 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/GULU" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:45 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/GULU" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/fire gutted cental market 167 vendors." ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision   " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:46 ns1:Event "https://w3id.org/gicentre/onto/desiventar/OTHER" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/HOIMA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KABWOYA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/KASEETA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Eight seven families affected and houses, crops destroyrd" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Hoima DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:47 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/HOIMA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/HOIMA TC" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/WESTERN WARD" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/need to improve the well being of the community " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Kyiratete" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:48 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/HOIMA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KIGOROBYA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/KAPAAPI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The outbreak was reported in Kapaapi and Kibiro Parishes." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Cholera" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:49 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/HOIMA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/9 students and a teacher were injured when a storm blew off iron sheets of s2 and s4 classroom blocks." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy down pour " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision   " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:50 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/HOIMA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Storm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:51 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/IBANDA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/BISHESHE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/An un-identified disease affected Bugarama and Kakaasi parishes in Bisheshe sub county killing 40 people. " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Strange Disease" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:52 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LIGHTNING" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/IBANDA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Rainstorm" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Rainstorm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:53 ns1:Event "https://w3id.org/gicentre/onto/desiventar/WINDSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/IGANGA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/IGANGA TC" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/NKONO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The wind destroyed the classroom and no one was injured" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Ministry of Education  and sports" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:54 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/IGANGA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NAKIGO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The storm de-roofed several houses and destroyed crops." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy down pour and Hail stones" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:55 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/IGANGA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Dysentry " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:56 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/IGANGA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:57 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/IGANGA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Nakabugu and Nawanyago villages were most affected." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Dysentry" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:58 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ISINGIRO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Crops withered due to drought resulting into poor yield. " ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Insufficient rainfall" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:59 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ISINGIRO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KABUYANDA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Crops withered due to drought resulting into poor yield" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Prolong dry spell" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:60 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ISINGIRO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NYAKITUNDA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Crops withered due to drought resulting into poor yield" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Prolong dry spell" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:61 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ISINGIRO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KABUYANDA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Drought severely affected food production resulting into total famine" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Prolong dry spell" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:62 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ISINGIRO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NYAKITUNDA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Drought severely affected food production resulting into total famine" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Prolong dry spell" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:63 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ISINGIRO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KIKAGATE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Drought severely affected food production resulting into total famine" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Prolonged Dry Spell" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:64 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/ISINGIRO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Animals died and crops were destroyed." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Drought" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Long Dry Spell" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:65 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/JINJA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/A Liquor waragi factory caught fire and millions were destroyed." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Unknown" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision   " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:66 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/JINJA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/BUWENGE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:67 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAABONG" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/LOYORO" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/LOBALANGIT" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Sections of roads washed away" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:68 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KABALE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KITUMBA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/KITUMBA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:69 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KABALE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KASHAMBYA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/NYAKASHEBEYA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The was loss of property, destruction of crops and houses" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Kibaale DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:70 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KABALE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:71 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LIGHTNING" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KABALE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/HAMURWA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/heavy down pour  " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:72 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KABALE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Affected counties were: Rukiga, Ndorwa and Rubanda" .
+
+ns1:73 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KABALE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Dysentry" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:74 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KABAROLE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KIBIITO" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/MALIGO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/A farmer lost 3 acres of green pepper." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Article in the New Vision dated 19/9/11 pg 2 \"Floods Destroy crops in Western, Northern Regions\"" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:75 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KABAROLE" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/KABONERA SUB-COUNTY" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Article in the New Vision dated 19/9/11 pg 2 \"Floods Destroy crops in Western, Northern Regions\"" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:76 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ANIMAL ATTACK" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KABAROLE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Rabid Dog " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:77 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KABAROLE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Dysentry invaded Katojo prison in Fort Portal killing 3." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Dysentry" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:78 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KABAROLE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Buhiti and Kyarusozi were affected most." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Cholera" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Cholera" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:79 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LIGHTNING" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KABAROLE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Rainstorm" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Rainstorm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:80 ns1:Event "https://w3id.org/gicentre/onto/desiventar/TORNADO" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KALANGALA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/MAZINGA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/A Powerful Tornado descended from the clouds and swept over 75 shelters into the lake, this happened at Lujjabwa Island on L.victoria shelters." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Unknown" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision  " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:81 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KALANGALA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Several gardens were submerged and houses destroyed; Leaving most residents homeless." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:82 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMPALA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KAWEMPE DIVISION" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Dysentery hit Katanga in Wandegeya and over 40 people contracted the disease." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Dysentery " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:83 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMPALA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/More than 8 students and 2 staff members were admitted because they were suffering from dysentery." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Dysentery" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:84 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMPALA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:85 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMPALA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/RUBAGA DIVISION" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/RUBAGA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/A heavy rainstorm blew off four roofs of Rubaga girls Primary School." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Rainstorm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:86 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMPALA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NAKAWA DIVISION" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/MUTUNGO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Woman was killed when her house wall colpsed on her following a heavy rain storm." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Rainstorm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:87 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMPALA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/RUBAGA DIVISION" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/A storm damaged four schools in Rubaga." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Storm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:88 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMPALA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NAKAWA DIVISION" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/NTINDA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/fire silos each of 20 feet high were destroyed by a storm in Ntinda induatrial area." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Storm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:89 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMPALA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NAKAWA DIVISION" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:90 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMPALA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Unknown" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Unknown" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:91 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMPALA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Fire outbreak at Bank of Uganda." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Unknown" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:92 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMPALA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Vehicles were burnt" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Unknown" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:93 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMPALA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/CENTRAL DIVISION" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/KISENYI I" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Alot of house hold property was lost in Kasato zone due to the fire." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Poor power connection" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:94 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMPALA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rainfall" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:95 ns1:Event "https://w3id.org/gicentre/onto/desiventar/RAINSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMULI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Crops and animals severely affected" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:96 ns1:Event "https://w3id.org/gicentre/onto/desiventar/RAINSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMULI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NAWANYAGO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Crops and animals severely affected" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:97 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMULI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The affected subcounties were Bugulumba , Wankole and Nawanyago " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:98 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KAMULI" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Unknown" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:99 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KANUNGU" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KAYONZA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Crops destroyed and some community roads washed away" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:100 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KANUNGU" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NYAMIRAMA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Crops destroyed" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:101 ns1:Event "https://w3id.org/gicentre/onto/desiventar/WINDSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KASESE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KYABARUNGIRA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/BWESUMBU" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Large acres of crops destroyed" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:102 ns1:Event "https://w3id.org/gicentre/onto/desiventar/WINDSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KASESE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KARAMBI" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/BUHUNA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Large acres of crops destroyed" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:103 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KASESE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:104 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KASESE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/long dry spell " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:105 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LANDSLIDE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KASESE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/BUGOYE" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/IBANDA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/150 Million property destroyed." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rains" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:106 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KASESE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KARUSANDARA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Rivers Nyamwamba and Sabwe over flew causing fear of food shortage because the crops were destroyed by floods." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:107 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ANIMAL ATTACK" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KASESE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/MUHOKYA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Ten people have been killed by crocodiles in the last six months." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Crocodiles" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:108 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KASESE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rains" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:109 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KASESE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Cholera" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Cholera" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:110 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KASESE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Subcounties affected were : Karambi , Bwera , Kisinga and Munkunyu" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Cholera" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Cholera" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:111 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KATAKWI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/pit latrines are fully destroyed" .
+
+ns1:112 ns1:Event "https://w3id.org/gicentre/onto/desiventar/WINDSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KIBAALE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KASAMBYA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Crops  and houses were destroyed families left stranded" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Storm" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Kibaale DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:113 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KIBAALE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KASAMBYA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Crops and houses destroyed / damaged living affected families helpless" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Strong" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Kibaale DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:114 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KIBAALE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KASAMBYA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/KYAKARONGO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/There was  destruction of houses and crops" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Kibaale DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:115 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KIBAALE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/BWIKARA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The affected Villages were, " .
+
+ns1:116 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KIBOGA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/BUKOMERO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/affected villages are: Kakinga and Kibanda " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Dysentry " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:117 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KIBOGA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KIBOGA TC" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Measles" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:118 ns1:Event "https://w3id.org/gicentre/onto/desiventar/RAINS" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KIRUHURA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/SANGA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/More tree should be plated in this area" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Kiruhura DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:119 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KIRUHURA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Animals and crops were destroyed." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Drought" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Long Dry Spell" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:120 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LANDSLIDE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KISORO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KANABA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/KAGEZI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/All the sectors have affected by the land slide" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Kisoro DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:121 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LANDSLIDE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KISORO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KANABA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Most people in this area are left homeless without food since the crops are destroyed" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Kisoro DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:122 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LANDSLIDE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KISORO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KANABA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/MUHINDURA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The landslide destroyed a number of houses of this villages" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Kisoro DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:123 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KISORO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/MURORA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Affected villages, Chibumba, Buyora, Buhuri and Kooga." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:124 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KITGUM" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/13 year old was burnt to death when she got trapped in a Bush fire." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Bush fire" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:125 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KITGUM" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:126 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FAMINE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KITGUM" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/shortage of rain " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:127 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KITGUM" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Houses collapsed , ducks , Chicken , turkeys , Goats and Sheep died." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rains" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:128 ns1:Event "https://w3id.org/gicentre/onto/desiventar/OTHER" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KOBOKO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/LOBULE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/SOME ITEMS SHOULD BE SUPPLIED TO HELP THE HELPLESS ALSO TO ALSO START UP SOME THINGS" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Windstorm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/koboko LDG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:129 ns1:Event "https://w3id.org/gicentre/onto/desiventar/THUNDERSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KOLE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/AYER" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/ABUR" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/roofs were of the houses and crops destroyed." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Houses were destroyed because of the fire outbreak " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/kole LDG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:130 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KOLE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/AKALO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The hailstorm destroyed several hectares of crops and domestic animals." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Torrential rains " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:131 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FAMINE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KOTIDO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/There was acute food shortage that reportly hit Nyakwai subcounty labwor county in Kotido distrist." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/long dry spell " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:132 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KUMI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KUMI TC" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/BOMA" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/Ngara road" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Emergency response required" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/severe" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:133 ns1:Event "https://w3id.org/gicentre/onto/desiventar/OTHER" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KUMI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/13 people died in Ongino, Malera and Koliro in Kumi." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Starvation                                                  " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:134 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/KUMI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/ONGINO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/365 latrines were fully destroyed" .
+
+ns1:135 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/LIRA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/ADEKOKWOK" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/ADEKOKWOK" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/13 Families houses damaged and 1 person  died " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/  LIRA LDG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:136 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/LIRA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The heavy downpour caused a storm that destroyed vision office, furniture, and news materials." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Down Pour" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:137 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/LIRA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Cholera" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:138 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FAMINE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/LIRA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/many starved to death " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:139 ns1:Event "https://w3id.org/gicentre/onto/desiventar/RAINSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/LIRA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:140 ns1:Event "https://w3id.org/gicentre/onto/desiventar/RAINSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/LIRA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/heavy down pour " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:141 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/LIRA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Left crops dry and those about to be harvested devastated . Crops that were affected included: Millet , Beans , Maize and Cassava" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Drought" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Long Dry Spell" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:142 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/LUUKA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Sections of roads flooded and this include Bulanga-Busedde road" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New-Vision 18 April 2013" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:143 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/LUWERO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Schools destroyed were: Ntumwa Primary School and Mark College School." .
+
+ns1:144 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ANIMAL ATTACK" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/LYANTONDE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/LYANTONDE TC" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Other villages affected by the animals are Kintuuka, Kyakaalu and Kitindo" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Unknown" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New-Vision April 1" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:145 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ACCIDENT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/LYANTONDE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Five people died when the car in which they were travelling veered off the bridge into river Kacheera." ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Vehicle Veered into river" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:146 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ANIMAL ATTACK" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/LYANTONDE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Other villages attacked were: Kinuuka, Kyakabaalu, Kitindo." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Hippopotamui attack " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:147 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LANDSLIDE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MANAFWA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/many people are living at high risk" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/District Files" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:148 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LANDSLIDE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MANAFWA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/latrines(houses& buildings)were fully destroyed" .
+
+ns1:149 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASAKA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/BUWUNGA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Maize and beans withered as a result of drought resulting into famine" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Prolong dry spell" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:150 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASAKA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/several houses got destroyed by the storm but these were not recorded." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Storm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:151 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASAKA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The road was covered with water (Bukakata - Masaka road)." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rains" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:152 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASAKA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/heavy rains" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:153 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASAKA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/H. Behaviour" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Candle Fire" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:154 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASINDI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/BWIJANGA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/-A total of 1500 hectares of sugarcane from the Sub-Counties of Bwijanga, Kimengo and Masindi Municipality was destroyed." .
+
+ns1:155 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASINDI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/BWIJANGA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/RUKONDWA" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/kabahara" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Emergency relief needed." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:156 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASINDI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/BWIJANGA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/RUKONDWA" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/Balyejukila" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Emergency relief needed." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:157 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASINDI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NYANGAHYA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/KIRYANGA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/THERE IS A OF RELIEF ITEMS LIKE POSH O, BEANS, PLANTING MATERIAL, IRON-SHEETS ETC" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:158 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASINDI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Many crops were destroyed and some houses damaged" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Many crops were destroyed" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/MASINDI LDG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:159 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ACCIDENT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASINDI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Three people died when their boat they were travelling in capsized on river Kafu." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Strong Wind" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:160 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ANIMAL ATTACK" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASINDI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/A hyena attackeda drunkard man that fell asleep at a neighbours home and it feasted on his stomach killing him instantly." .
+
+ns1:161 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ANIMAL ATTACK" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASINDI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/PAKANYI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/lions attacked two villages ( Kihaguz and Kidwera)killing doats and cows." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/lion attack   " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision   " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:162 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ACCIDENT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MASINDI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/65 people died when the boat on which they were sailing was hit by a strong wind" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Windstorm" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Boat capsized due to wind storm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:163 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MAYUGE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Extensive damage to crops" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:164 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MBALE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Damage was caused to many factory machineries, property and crops. Many houses and buildings in Maluku and Namatala were also destroyed." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Wind" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:165 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MBALE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/BUSIU" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/BUMASIKYE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NEW VISION" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:166 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LANDSLIDE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MBALE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Several gardens of maize, coffee, beans and bananas were destroyed." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Torrential Rain " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:167 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FAMINE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MBALE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The food shortage affected thr Bunambutye and Muyembe subcounty." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Drought" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/prolonged drought " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:168 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ANIMAL ATTACK" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MBALE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Stray dog." ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:169 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MBALE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NAKALOKE" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/NAMABASA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Torrential rains " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:170 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MBALE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/BUFUMBO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/A heavy hailsrorm accompanied by a landslide hit and destroyed coffee and banana plantations but no houses. In the villages of Busalagi and Bumaluda villages." ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:171 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LIGHTNING" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MBARARA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Down pour" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:172 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MBARARA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/A strange disease hit Mbarara killing 40 people." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Strange Disease" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:173 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MBARARA" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:174 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MBARARA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Animals died and Crops were destroyed" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Drought" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Long Dry Spell" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:175 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LIGHTNING" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MBARARA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Six pupils and a teacher of Kiyenje Primary School died on the spot after being struck by lightning." ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:176 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KATIKEKILE" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Prolong dry spell" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:177 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KATIKEKILE" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/KAKINGOL" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/katikekile" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Emergency response needed." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Drought" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/climate change" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:178 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/very many people and household who don't have what to eat" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Drought" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/moroto DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:179 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NADUNGET" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/LOPUTUK" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/north eastern part" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Drought" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/climate change" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:180 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/RUPA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/RUPA" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/Rupa" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Drought" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/climate change" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:181 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NADUNGET" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/LOTIRIR" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Houses were destroyed and families left homeless" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Moroto DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:182 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NADUNGET" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/NAITAKWAE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/A total 60 house holds were damaged and houses destroyed " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Moroto DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:183 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/TAPAC" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/NATUMUKALE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The people of this village are be hosted by the neighbors which has caused disconfort" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Moroto DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:184 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NORTHERN DIVISION" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The village faced wild fires and ten  houses were destroyed " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Moroto DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:185 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NADUNGET" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/the floods also killed 1286 goats, sheep, and donkeys." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:186 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Floods washed away sorghum seeds." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Torrential rains" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:187 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NADUNGET" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/maize and sorghum were partially damaged" .
+
+ns1:188 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/TAPAC" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/maize and sorghum were partially damaged" .
+
+ns1:189 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MOROTO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/RUPA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/sorghum was partially damaged" .
+
+ns1:190 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MPIGI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The hailstorm destroyed crops. The affected parish was Kabasanda and affected villages were Bulungu, Kabasanda, Kaggulwe and Kalamba." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Down pour" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:191 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MPIGI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Villages were hit by famine" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy DownPour" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:192 ns1:Event "https://w3id.org/gicentre/onto/desiventar/WINDSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MUBENDE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Mubende DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:193 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MUBENDE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KASAMBYA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/KIGANDO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/There are many bridges destroyed and transport was affected" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Mubende DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:194 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MUBENDE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The affected subcounties were Kasambya, Kigando, Kigando,Kitenga Nalutuntu, Manyogaseka and Myanzi." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/lumpy skin disease " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:195 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MUBENDE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Ebola" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:196 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MUKONO" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Pest Infestation of Army worms   " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:197 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/MUKONO" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Cassava Mosaic" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:198 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAKAPIRIPIRIT" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/LOLACHAT" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/LORUKUMO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/severe conditions." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:199 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAKAPIRIPIRIT" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/DISTRICT" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:200 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAKAPIRIPIRIT" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NABILATUK" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/homes were claimed and destroyed several huts property,animals, cereals" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/district" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:201 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAKASEKE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NAKASEKE" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/NAKASEKE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Institutions,  families crops and houses were affected  " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Nakaseks DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:202 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAKASEKE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NAKASEKE" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/NAKASEKE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The families and houses of  Nakaseke town council were affected" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Nakaseke DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:203 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAKASEKE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/2 rivers damaged" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:204 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAKASEKE" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:205 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAKASEKE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Schools that got damaged were : " .
+
+ns1:206 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAMUTUMBA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Nsinze-Nambale route was badly affected" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New-Vision April 16th 2013" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:207 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAPAK" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/Lomaroto" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Cases of Hepatitis B reported" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:208 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAPAK" ;
+	ns1:Location "https://w3id.org/gicentre/onto/desiventar/Lomaratoit Sub-county" .
+
+ns1:209 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAPAK" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NGOLERIET" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/LOKORETO" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Drought" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Prolong dry spell" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/letter from PS " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:210 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAPAK" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/MATANY" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/LOKALI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/houses were burnt to ashe and crops were also damaged" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/napak LDG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:211 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAPAK" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/LOKOPO" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/BOKORA CORRIDOR GR" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/people lack where to sleep and  what to eat" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Houses were destroyed because of the fire outbreak " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Napak LDG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:212 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAPAK" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NGOLERIET" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/LOKORETO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/One family of  a woman with her children strunded after her house got burnt with all house holds" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/serious" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/CAO Napark" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:213 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAPAK" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/MATANY" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Houses got bunt in this village of wild fire." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Napak LDG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:214 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAPAK" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/LOTOME" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/LOMUNO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The wild destroyed a number of houses living families out without any shelter " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/serious" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Napak DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:215 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NAPAK" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Aracheke dam,Kangole bridge were flooded" .
+
+ns1:216 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NEBBI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/PANYANGO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Affected family left stranded  and crops damaged" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Serious" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Nebbi DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:217 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLASH FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NEBBI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NEBBI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The affected families needed help from the government" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Nebbi DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:218 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NEBBI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/PANYIMUR" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/NYAKAGEI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The bush fire left 14 families in the above village homeless and destroyed crops and other propeties" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Wild Fire" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Nebbi DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:219 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NEBBI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The worst hit subcounties were:Alwi and Pakwach." .
+
+ns1:220 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NEBBI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/River Nyancara flooded due to heavy rains and one man drowned in the river." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:221 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NEBBI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Affected parishes were: Abok and Pagieth." .
+
+ns1:222 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NTOROKO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KARUGUTU" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Sections of roads and some bridges were washed away. Rooftops of homes, schools and health centers were de-roofed by strong winds." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/OPM" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:223 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NTOROKO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/RWEBISENGO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Due to the heavy rainfail 11 schools were flooded " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:224 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NTUNGAMO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/NGOMA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/KASHENYI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/One hundred and two families affected and crops destroyed" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Ntungamo DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:225 ns1:Event "https://w3id.org/gicentre/onto/desiventar/WINDSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NTUNGAMO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/RUHAAMA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/KATOJO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Most crops of this villages were destroyed" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/strong" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Ntungamo LDG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:226 ns1:Event "https://w3id.org/gicentre/onto/desiventar/THUNDERSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NTUNGAMO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/RWEIKINIRO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/since its is a disaster these people need help so that situation can be arrested." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Strong" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/rweikinro" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:227 ns1:Event "https://w3id.org/gicentre/onto/desiventar/THUNDERSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NTUNGAMO" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/strong wind and rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Ntungamo LDG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:228 ns1:Event "https://w3id.org/gicentre/onto/desiventar/DROUGHT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/NTUNGAMO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Animals died and crops wre destroyed ." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Drought" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Long Dry Spell" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:229 ns1:Event "https://w3id.org/gicentre/onto/desiventar/WINDSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/OTUKE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/OKWANG" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/OPEJAL" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/This strong wind has destroyed many houses and house holds plus water supply " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/strong wind and rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Otuke DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:230 ns1:Event "https://w3id.org/gicentre/onto/desiventar/WINDSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/OYAM" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/ACABA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/ANYEKE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/It affected some families, schools and churches" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Oyam DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:231 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ANIMAL ATTACK" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/OYAM" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/ACABA" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/ANYEKE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/The wild life authority to relocate the animals to the national park" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Oyam DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:232 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ANIMAL ATTACK" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/OYAM" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/LORO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Elephants from Murchison falls national parks attacked people." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/5 Elephants attacked people in the garden" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:233 ns1:Event "https://w3id.org/gicentre/onto/desiventar/HAILSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/PALLISA" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/APOPONG" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/KAUKURA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/A six classroom block at Kaukura Primary School was de-roofed." .
+
+ns1:234 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ACCIDENT" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/RUKUNGIRI" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/BWAMBARA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Three congolese fishermen drowned in lake Edward when their boat capsized during the heavy morning winds." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Strong Wind" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:235 ns1:Event "https://w3id.org/gicentre/onto/desiventar/ANIMAL ATTACK" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/RUKUNGIRI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Elephants from queen Elizabeth National Park destroyed 70 acres of bananas,maize,sorghum and cassava." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/elephant attack  " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:236 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/SERERE" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/maize, cassava,beans, sim-sim, sweet potatoes were partially damaged" .
+
+ns1:237 ns1:Event "https://w3id.org/gicentre/onto/desiventar/LANDSLIDE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/SIRONKO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/ZESUI" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/SHIMOMA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/relief assistance should be sought of to help out the fifty families affected by the landslide  " ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Severe" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/CAO" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:238 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/SIRONKO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/SIRONKO TC" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/33 Families affected and 30 stalls destroyed" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/Sironko DLG" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:239 ns1:Event "https://w3id.org/gicentre/onto/desiventar/CONTAMINATION" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/SIRONKO" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Alcohol " ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:240 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FLOOD" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/SIRONKO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/ZESUI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Landslide destroyed 6 homes, crops for 210 households. The most affected parishes were : Bulugyewa and Bumulu" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rain" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Heavy Rainfall" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:241 ns1:Event "https://w3id.org/gicentre/onto/desiventar/EPIDEMIC" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/SOROTI" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Meningitis" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:242 ns1:Event "https://w3id.org/gicentre/onto/desiventar/STORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/SSEMBABULE" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/LWEBITAKULI" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/13 villages were affected. The parishes affected include Lwebitakuli, Lugusuulu and Nakasenyi." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Rainstorm" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Wind and Hail storm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:243 ns1:Event "https://w3id.org/gicentre/onto/desiventar/RAINSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/TORORO" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Rain" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision " ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:244 ns1:Event "https://w3id.org/gicentre/onto/desiventar/WINDSTORM" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/TORORO" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/It damaged buildings , vehicles and crops. The counties affected were: Mulanda , Sukuru and Rubongi." ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Windstorm" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Windstorm" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/New Vision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:245 ns1:Event "https://w3id.org/gicentre/onto/desiventar/FIRE" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/TORORO" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Description_Of_Cause "https://w3id.org/gicentre/onto/desiventar/Petrol" ;
+	ns1:Source "https://w3id.org/gicentre/onto/desiventar/NewVision" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
+
+ns1:246 ns1:Event "https://w3id.org/gicentre/onto/desiventar/OTHER" ;
+	ns1:District "https://w3id.org/gicentre/onto/desiventar/WAKISO" ;
+	ns1:Subcounty "https://w3id.org/gicentre/onto/desiventar/KATABI" ;
+	ns1:Parish "https://w3id.org/gicentre/onto/desiventar/NKUMBA" ;
+	ns1:Comments "https://w3id.org/gicentre/onto/desiventar/Twenty five families affected and houses destroyed" ;
+	ns1:Cause "https://w3id.org/gicentre/onto/desiventar/Other cause" ;
+	ns1:Duration "https://w3id.org/gicentre/onto/desiventar/0.0" .
